@@ -1,6 +1,3 @@
-vless://04695962-ec9f-4589-b962-263e7b55664c@fr-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20XTLS%20@V2rayStore
-vless://06fd8748-334a-4bef-8796-d300d9d9fb5f@fr2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20XTLS%20@V2rayStore
-vless://454f84df-724d-442a-a4a2-698a6d63f946@fr3-full.privateip.net:443?type=tcp&encryption=none&security=xtls&path=%2f&headerType=none&flow=xtls-rprx-direct#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20XTLS%20@V2rayStore
 trojan://44742700-1103-4645-8d0b-4db85b5495d8@us-full.privateip.net:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Trojan%20@V2rayStore
 trojan://42bf022d-f86f-4c9a-916c-fbae99dd4e1e@us2-full.privateip.net:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Trojan%20@V2rayStore
 trojan://6c609341-9919-417c-b4c4-b8dc84057072@us3-full.privateip.net:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Trojan%20@V2rayStore
@@ -998,3 +995,6 @@ ssr://MTAzLjE3Mi4xMTYuNzk6OTA1OTpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46T1ZoM1dYbGFjMH
 ssr://MTAzLjE3Mi4xMTYuNzk6OTAxNTpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46V25CT1JFUkxVblU1VFdGblRuWmhaZz09Lz9vYmZzcGFyYW09JnJlbWFya3M9OEolMkJIdVBDZmg2eFRSeTB4TURNdU1UY3lMakV4Tmk0M09TMDRPVFkxJnByb3RvcGFyYW09
 ssr://MTAzLjE3Mi4xMTYuNzk6OTAzMjpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46VlZkYVVXVk1VbGR1YTNGbmEzTmxjUT09Lz9vYmZzcGFyYW09JnJlbWFya3M9OEolMkJIdVBDZmg2eFRSeTB4TURNdU1UY3lMakV4Tmk0M09TMDRPVFk0JnByb3RvcGFyYW09
 ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@103.172.116.103:9070#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.103-3501
+ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@103.172.116.79:9006#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.79-0898
+ssr://MTAzLjE3Mi4xMTYuNzk6OTAxOTpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46UjBFNVMzcGxSV2QyWm5oT2NtZHRUUT09Lz9vYmZzcGFyYW09JnJlbWFya3M9OEolMkJIdVBDZmg2eFRSeTB4TURNdU1UY3lMakV4Tmk0M09TMDRPVGMwJnByb3RvcGFyYW09
+ssr://MTAzLjE3Mi4xMTYuNzk6OTAzMTpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46UW5kalFWVmFhemhvVlVaQmEwUkhUZz09Lz9vYmZzcGFyYW09JnJlbWFya3M9OEolMkJIdVBDZmg2eFRSeTB4TURNdU1UY3lMakV4Tmk0M09TMDRPVGM0JnByb3RvcGFyYW09
