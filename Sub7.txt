@@ -1,4 +1,3 @@
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.67:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.67-9522
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.62.68:8091#%F0%9F%87%BA%F0%9F%87%B8US-167.88.62.68-9524
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MWQxMjNiMy1hNDNhLTQ0OGEtOTJkMS1iZDIxMDI1NjA3N2I=@api-a-asia-3.mcqqn.com:61020#%F0%9F%87%AF%F0%9F%87%B5JP-103.106.228.152-0123
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@167.88.63.59:8881#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.59-9526
@@ -998,3 +997,4 @@ trojan://telegram-id-privatevpns@3.8.123.26:22222?security=tls&sni=trj.rollingne
 trojan://telegram-id-privatevpns@3.8.123.26:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-3.8.123.26-10976
 trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.252.69.131-10977
 trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.15.72-10979
+trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.15.72-10981
