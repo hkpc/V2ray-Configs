@@ -997,4 +997,4 @@ vless://7d3b945d-0f23-4719-9fae-50033251e2fd@www.speedtest.net:443?sni=qwhtnnrgo
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@mci.tahermollaei.pw:443?sni=5tut117qc2g6nrc19j56.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  11
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@cloudflare.quest:443?sni=cndb9wjin2i7vab5vvcg.khodavakili.top&host=dl.khodavakili.top&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  12
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@cm.db-link.in:443?sni=0xjwju9wgnxxb7x6ck59.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  13
-vless://bc1bf5b9-1a73-4961-92c7-ae9d3b5a7cbf@google.com:443?type=grpc&serviceName=92704309&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=8209019317.chamshar.shop#vip-4zer09w2
+vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#YAS+51+ID%28%40Outline_Vpn%29
