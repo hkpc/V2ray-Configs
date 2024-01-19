@@ -1,3 +1,11 @@
+trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.15.72-10981
+trojan://telegram-id-directvpn@3.21.104.170:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-3.21.104.170-10982
+trojan://telegram-id-privatevpns@3.123.22.69:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.123.22.69-10983
+trojan://telegram-id-privatevpns@3.123.22.69:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.123.22.69-10985
+trojan://telegram-id-privatevpns@3.123.128.240:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.123.128.240-10988
+trojan://telegram-id-privatevpns@3.123.128.240:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.123.128.240-10990
+trojan://telegram-id-privatevpns@3.120.187.229:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.120.187.229-10991
+trojan://telegram-id-privatevpns@3.120.187.229:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.120.187.229-10993
 trojan://dTjHHw2kDE@23.94.122.66:38505?security=tls&sni=telewebion.com#%F0%9F%87%A8%F0%9F%87%A6CA-23.94.122.66-10995
 vmess://ewogICAgImFkZCI6ICIxNjIuMTU5LjEzNS40MiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImxhLmF3c2Jlc3QuY29tIiwKICAgICJpZCI6ICI4YjZkZDcwOS00ZDRlLTRiOTItZjU0Mi01NGE2NzZlZmJmZTQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvc2hhcmVzIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE2Mi4xNTkuMTM1LjQyLTAwMjgiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMTk5LjM0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAibGEuYXdzYmVzdC5jb20iLAogICAgImlkIjogIjhiNmRkNzA5LTRkNGUtNGI5Mi1mNTQyLTU0YTY3NmVmYmZlNCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9zaGFyZXMiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY3LjE5OS4zNC0wMDI3IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=

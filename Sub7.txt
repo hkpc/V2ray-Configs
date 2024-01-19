@@ -1,3 +1,11 @@
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.67:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.67-9522
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.62.68:8091#%F0%9F%87%BA%F0%9F%87%B8US-167.88.62.68-9524
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MWQxMjNiMy1hNDNhLTQ0OGEtOTJkMS1iZDIxMDI1NjA3N2I=@api-a-asia-3.mcqqn.com:61020#%F0%9F%87%AF%F0%9F%87%B5JP-103.106.228.152-0123
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@167.88.63.59:8881#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.59-9526
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.19:6697#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.19-9527
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.48.34:3306#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.34-9528
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MWQxMjNiMy1hNDNhLTQ0OGEtOTJkMS1iZDIxMDI1NjA3N2I=@api-wx-2.rancho.gay:50105#%F0%9F%87%AF%F0%9F%87%B5JP-103.106.228.152-0122
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.134.191:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.191-9530
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@167.88.61.50:2375#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.50-9532
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.49:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.49-9533
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.67:8091#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.67-9535
@@ -990,11 +998,3 @@ trojan://telegram-id-privatevpns@3.8.123.26:22222?security=tls&sni=trj.rollingne
 trojan://telegram-id-privatevpns@3.8.123.26:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-3.8.123.26-10976
 trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.252.69.131-10977
 trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.15.72-10979
-trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.15.72-10981
-trojan://telegram-id-directvpn@3.21.104.170:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-3.21.104.170-10982
-trojan://telegram-id-privatevpns@3.123.22.69:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.123.22.69-10983
-trojan://telegram-id-privatevpns@3.123.22.69:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.123.22.69-10985
-trojan://telegram-id-privatevpns@3.123.128.240:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.123.128.240-10988
-trojan://telegram-id-privatevpns@3.123.128.240:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.123.128.240-10990
-trojan://telegram-id-privatevpns@3.120.187.229:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.120.187.229-10991
-trojan://telegram-id-privatevpns@3.120.187.229:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.120.187.229-10993
