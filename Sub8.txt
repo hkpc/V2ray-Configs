@@ -1,3 +1,8 @@
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.223.228.213:443#%F0%9F%87%BA%F0%9F%87%B8US-34.223.228.213-10911
+trojan://telegram-id-directvpn@34.219.52.119:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-34.219.52.119-10912
+trojan://telegram-id-directvpn@34.219.52.119:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-34.219.52.119-10914
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.219.40.74:443#%F0%9F%87%BA%F0%9F%87%B8US-34.219.40.74-10916
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.217.75.169:443#%F0%9F%87%BA%F0%9F%87%B8US-34.217.75.169-10917
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@31.172.67.43:443#%F0%9F%87%B7%F0%9F%87%BARU-31.172.67.43-10918
 trojan://telegram-id-directvpn@3.96.217.9:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A8%F0%9F%87%A6CA-3.96.217.9-10920
 trojan://telegram-id-privatevpns@3.8.123.26:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-3.8.123.26-10921
@@ -993,5 +998,3 @@ tuic://4576f920-975b-4ab4-b53a-bdcfa623124d:dongtaiwang.com@108.181.22.239:45600
 hy2://d2e21fabfe6ddb83@70.34.205.24:443?insecure=1&obfs=salamander&obfs-password=ca39a177&sni=T.me%2FIP_CF#رایگان | HY2 | @FAKEOFTVC | SE🇸🇪 | 0️⃣1️⃣
 hy2://4a52c165e81fa8fc@70.34.213.123:443?insecure=1&obfs=salamander&obfs-password=a16d0be0&sni=T.me%2FIP_CF#رایگان | HY2 | @FAKEOFTVC | SE🇸🇪 | 0️⃣2️⃣
 hy2://9f73c619627d6a5d@66.245.192.15:443?insecure=1&obfs=salamander&obfs-password=bd7f765e&sni=T.me%2FIP_CF#رایگان | HY2 | @FAKEOFTVC | GB🇬🇧 | 0️⃣3️⃣
-hy2://f6e4b19a3110d19d@66.135.28.59:443?insecure=1&obfs=salamander&obfs-password=8c3ce17b&sni=T.me%2FIP_CF#رایگان | HY2 | @FAKEOFTVC | US🇺🇸 | 0️⃣4️⃣
-hy2://
