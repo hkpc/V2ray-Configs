@@ -1,12 +1,7 @@
-trojan://telegram-id-privatevpns@18.132.94.169:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣5️⃣
-trojan://telegram-id-privatevpns@3.10.184.184:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣6️⃣
-trojan://telegram-id-privatevpns@15.188.169.85:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣7️⃣
-trojan://telegram-id-directvpn@15.236.191.120:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣1️⃣
 trojan://telegram-id-directvpn@18.185.210.108:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣2️⃣
 trojan://telegram-id-directvpn@16.16.44.116:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | SE🇸🇪 | 0️⃣3️⃣
 trojan://vBjaQYDraP@gr.tucn-serves.info:8443?fp=chrome&path=%2F&security=tls&sni=gr.tucn-serves.info&type=ws#رایگان | TROJAN | @proxyymeliii | CA🇨🇦 | 0️⃣1️⃣
 trojan://QWhnWaVLh0@www.speedtest.net:443?fp=chrome&host=maintains-newton-b-bless.trycloudflare.com&path=%2Fws&security=tls&sni=maintains-newton-b-bless.trycloudflare.com&type=ws#رایگان | TROJAN | @v2ray1_ng | CA🇨🇦 | 0️⃣1️⃣
-trojan://6x8HcghsjS@103.214.68.57:10003?sni=yes998.chickenkiller.com#رایگان | TROJAN | @yaney_01 | NL🇳🇱 | 0️⃣1️⃣
 trojan://efdf7370-b84b-11ee-9e41-1239d0255272@172.67.204.84:443?host=de2.test3.net&path=%2Fhowdy&security=tls&sni=de2.test3.net&type=ws#رایگان | TROJAN | @kingofilter | FR🇫🇷 | 0️⃣1️⃣
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@145.239.1.100:8091#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40DeamNet_Proxy+%7C+DE%F0%9F%87%A9%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:801#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40DeamNet_Proxy+%7C+JP%F0%9F%87%AF%F0%9F%87%B5+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
@@ -18,8 +13,6 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5600#%D8%B1%D8%A7%DB%8C
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:5001#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+DE%F0%9F%87%A9%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
 ss://YWVzLTI1Ni1nY206YVNFLzI2QzlNamwrTHJuRXdYa0t2NkVySDl5ZklsdDlTZmZYQ0FFRENrcz0=@ca-ss.ipracevpn.com:2443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+CA%F0%9F%87%A8%F0%9F%87%A6+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+AT%F0%9F%87%A6%F0%9F%87%B9+%7C+0%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3
-ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6R2xnYTVFM0dRblNvNGhiZHNnaHhubmZlQklqdk96ZWxXR1ltNzM2aFQrUT0=@16.16.206.133:80#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40forwardv2ray+%7C+SE%F0%9F%87%B8%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLR0JQMm9NMkw5d0ptTytxYSsySFVZQXpGQlhBMEVkOE5PRi90UDI4V2t3PQ==@13.48.47.120:80#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40forwardv2ray+%7C+SE%F0%9F%87%B8%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40kingofilter+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLTzR0MWZpVDBPcDgyTGc4eDdVU3JU@95.164.68.112:46478#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40ROMAX_VPN+%7C+DE%F0%9F%87%A9%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
 tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@45.76.94.18:443?allow_insecure=1&alpn=h3&congestion_control=bbr&sni=www.apple.com&udp_relay_mode=native#رایگان | TUIC | @TUICity | DE🇩🇪 | 0️⃣1️⃣
