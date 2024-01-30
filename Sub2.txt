@@ -1,3 +1,10 @@
+vless://e4a52f75-474e-449e-bcd2-05ea177f1403@xn--21-pv2cn3nz8d5o7an4zda455qi36a.tech:80?path=%2F&security=none&encryption=none&host=140.%E7%90%83%E8%BF%90%E5%8A%A8%E5%88%97%E8%BF%9020.tech&type=ws#%F0%9F%87%BA%F0%9F%87%B8+United+States+140
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.16.237.74:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray
+
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.16.110.215:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%281%29
+
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.25.233.226:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%282%29
+
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.244.51:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%283%29
 
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.247.14:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%284%29
@@ -991,10 +998,3 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@167.88.61.175:8008#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.136.135:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.135-10593
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.48.43:8090#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.43-8049
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.43:2375#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.43-8059
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.134.9:8118#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-9022
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.142:4444#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.142-10294
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.71:8090#%F0%9F%87%BA%F0%9F%87%B8US-38.75.137.71-9322
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.142:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.142-10212
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.97-9971
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:5001#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-9019
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.9:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-9017
