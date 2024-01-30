@@ -1,3 +1,18 @@
+trojan://telegram-id-directvpn@44.201.217.130:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-44.201.217.130-11590
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.207.83.221:443#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.83.221-11591
+ss://YWVzLTI1Ni1jZmI6ZG91Yi5pbw==@43.202.49.222:2333#%F0%9F%87%B0%F0%9F%87%B7KR-43.202.49.222-11592
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.108.109:443#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.108.109-11593
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmN1BqMGM3M1BxUWY5N2xtV1ltQmJY@40.114.213.220:64504#%F0%9F%87%B3%F0%9F%87%B1NL-40.114.213.220-11597
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwV3FUVFY2bHJuUEFwZEVBRjhRc204@40.114.210.138:40943#%F0%9F%87%B3%F0%9F%87%B1NL-40.114.210.138-11599
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.91.107.245:1230#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.245-11601
+vmess://ewogICAgImFkZCI6ICIzOC42My4wLjg1IiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3BhdGgvMTY4OTkzNTI0MzAyNyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e68J+HuFVTLTM4LjYzLjAuODUtMTE2MDMiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+vmess://ewogICAgImFkZCI6ICIzOC42My4wLjY4IiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3BhdGgvMTY4MzcxNTgyNjg3MCIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e68J+HuFVTLTM4LjYzLjAuNjgtMTE2MDQiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+vmess://ewogICAgImFkZCI6ICIzOC41OS4yNDMuMTMzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI1OGM3NmQ3NS01NjNjLTQ2OTQtODRjNC1hNzk4ZDU1ZTkwZWQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+HuvCfh7hVUy0zOC41OS4yNDMuMTMzLTExNjA1IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+trojan://Hu4CFM0wJ3@38.150.13.140:57063?security=tls&sni=38.150.13.140#%F0%9F%87%AD%F0%9F%87%B0HK-38.150.13.140-11607
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.214:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.214-11610
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.213:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.213-11611
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.212:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.212-11612
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.211:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.211-11613
 trojan://telegram-id-directvpn@35.182.28.167:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A8%F0%9F%87%A6CA-35.182.28.167-11615
 trojan://telegram-id-privatevpns@35.180.36.215:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-35.180.36.215-11617
 trojan://telegram-id-privatevpns@35.180.36.215:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-35.180.36.215-11619
@@ -983,18 +998,3 @@ trojan://telegram-id-directvpn@52.49.211.21:22222?alpn=http%2F1.1&headerType=non
 trojan://telegram-id-directvpn@35.179.52.113:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣7️⃣
 trojan://1YcFVMZWx_OiEBEvnEMtrg@190.93.245.187:2083?host=arv2.aticloud.ir&path=%2F&security=tls&sni=arv2.aticloud.ir&type=ws#رایگان | TROJAN | @oneclickvpnkeys | US🇺🇸 | 0️⃣1️⃣
 trojan://61817e64-10ca-47be-97e8-9d6ff6aa2a5d@clean1.freelines.net:443?alpn=http%2F1.1&fp=chrome&host=rsfrndc.foriran.trade&path=%2F3D8U0cLhe2MGwH9c1eh1994&security=tls&sni=rsfrndc.foriran.trade&type=ws#رایگان | TROJAN | @oneclickvpnkeys | CA🇨🇦 | 0️⃣2️⃣
-trojan://61817e64-10ca-47be-97e8-9d6ff6aa2a5d@clean1.freelines.net:443?fp=chrome&host=rsfrndc.foriran.trade&path=%2F3D8U0cLhe2MGwH9c1eh1994&security=tls&sni=rsfrndc.foriran.trade&type=ws#رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣2️⃣
-trojan://7884d564-5873-4321-9fad-b5f82236d79e@185.18.250.220:443?alpn=h2&fp=chrome&mode=gun&security=tls&serviceName=dxgVtBfHcBj8UXo&sni=1.digikala.sbs&type=grpc#رایگان | TROJAN | @VmessProtocol | ES🇪🇸 | 0️⃣3️⃣
-trojan://7884d564-5873-4321-9fad-b5f82236d79e@173.245.58.170:443?alpn=http%2F1.1&fp=chrome&mode=gun&security=tls&serviceName=dxgVtBfHcBj8UXo&sni=1.digikala.sbs&type=grpc#رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣4️⃣
-trojan://4fd4c27a-2b01-4dd6-94ee-a2c465542177@185.18.250.145:443?alpn=http%2F1.1&fp=chrome&mode=gun&security=tls&serviceName=dxgVtBfHcBj8UXo&sni=1.digikala.sbs&type=grpc#رایگان | TROJAN | @VmessProtocol | ES🇪🇸 | 0️⃣5️⃣
-trojan://6x8HcghsjS@103.214.68.57:10003?sni=yes998.chickenkiller.com#رایگان | TROJAN | @yaney_01 | NL🇳🇱 | 0️⃣1️⃣
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.135:8888#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40DeamNet_Proxy+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@167.88.61.175:8119#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40DeamNet_Proxy+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.136.135:8080#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40DeamNet_Proxy+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:806#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40DeamNet_Proxy+%7C+JP%F0%9F%87%AF%F0%9F%87%B5+%7C+0%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.75.136.135:6379#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40DeamNet_Proxy+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A3
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.134.9:8882#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40DeamNet_Proxy+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A36%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40proxyymeliii+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40proxyymeliii+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNekZpWQ==@95.164.69.152:8388#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40VmessProtocol+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40VmessProtocol+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
