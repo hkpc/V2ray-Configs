@@ -1,3 +1,4 @@
+vmess://ewogICAgImFkZCI6ICIyMDMuMzAuMTkxLjE5MSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImxnMS50cnVtcDIwMjMudXMiLAogICAgImlkIjogIjQwZDQ5NmE2LWNlZWItNDA5Ni1iYWViLTRjYzUyYjIwNTYyMSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9FQ1RDSjBERiIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMjAzLjMwLjE5MS4xOTEtMDEwNCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.67:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.67-9496
 vmess://ewogICAgImFkZCI6ICIyMDMuMzAuMTg5LjE5MSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImxnMTAuY2ZjZG4xLnh5eiIsCiAgICAiaWQiOiAiMTdiMmEzMTMtMzdhMC00OTQ1LWE4ZTQtZTYzMzc1NTA2YjRhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL0EyREpPUEZUIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0yMDMuMzAuMTg5LjE5MS0wMTAyIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@167.88.63.59:8881#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.59-9500
@@ -997,4 +998,3 @@ trojan://telegram-id-directvpn@3.96.217.9:22222?security=tls&sni=trj.rollingnext
 trojan://telegram-id-privatevpns@3.8.123.26:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-3.8.123.26-10948
 trojan://telegram-id-privatevpns@3.8.123.26:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-3.8.123.26-10950
 trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.252.69.131-10951
-trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.15.72-10953
