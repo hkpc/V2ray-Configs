@@ -1,8 +1,3 @@
-ss://aes-256-gcm:0ecbbcf6-940c-4467-a581-87b79f01d582@jp-full.privateip.net:8443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Shadowsocks%20@V2rayStore
-ss://aes-256-gcm:c0a32f55-ccb9-410d-b3e5-6f8ccef1e714@fr-full.privateip.net:8443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Shadowsocks%20@V2rayStore
-ss://aes-256-gcm:31d1af85-1419-4ff6-8b18-c26d5a316ce4@fr2-full.privateip.net:8443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Shadowsocks%20@V2rayStore
-vless://4e2b1a01-d4b8-478f-9367-e402f66e7895@us2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20TCP%20@V2rayStore
-vless://61437677-7da2-4111-be18-d200e422449e@uk3-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20TCP%20@V2rayStore
 vless://fe6b171f-0996-4cca-89b6-8bf2b7f70cb4@de-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20@V2rayStore
 vless://94e0bd36-57bb-4d1c-8315-0840fe0d26b3@de2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20@V2rayStore
 vless://8cc0db03-c8c0-48b1-b21d-dc9872163050@ru-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20Vless%20TCP%20@V2rayStore
@@ -998,3 +993,8 @@ ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@103.172.116.90:9059#%F0%9F%87%B8%F
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@103.172.116.90:9014#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.90-7638
 vmess://ewogICAgImFkZCI6ICIxNzIuNjcuNjguMjQ2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAidmlwMjMyMy5jZmQiLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rdndzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjcuNjguMjQ2LTM3NjkiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJ2aXAyMzIzLmNmZCIKfQ==
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@45.89.52.66:9037#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-9759
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3dlA2bEJFaW0wUHFpeWp6ZmVLMlpv@109.107.189.5:53064#%F0%9F%87%B7%F0%9F%87%BARU-109.107.189.5-0853
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-0874
+vmess://ewogICAgImFkZCI6ICI5Mi4zOC4xNjguNSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImtvc2FyMzcuc3l0ZXMubmV0IiwKICAgICJpZCI6ICIyOWE0N2M0Mi02YzNhLTQ2ZDAtYTE4NC0yYzFhNmVhMTkyYWMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvQGZvcndhcmR2MnJheSIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e68J+HuFVTLTkyLjM4LjE2OC41LTAxODQiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+vmess://ewogICAgImFkZCI6ICIxMDQuMjYuOS4yMDIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ2aXAyMzIzLmNmZCIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yNi45LjIwMi0zNzkzIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAidmlwMjMyMy5jZmQiCn0=
+ss://YWVzLTI1Ni1nY206d3dxNlhvNWdKOA==@38.54.104.184:18808#%F0%9F%87%BA%F0%9F%87%B8US-38.54.104.184-0515
