@@ -1,3 +1,5 @@
+vless://30d04308-8e1c-45d0-9b6a-f414865bafe0@fr2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20@V2rayStore
+vless://454f84df-724d-442a-a4a2-698a6d63f946@fr3-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20@V2rayStore
 vless://32088f2f-92b3-456b-9f66-3b50e06555f6@us2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://348412a2-987c-41cd-8cb7-54458a02647c@uk3-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://6ebaaf37-e27f-4f52-8809-6ce049b12ec5@de-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20XTLS%20@V2rayStore
@@ -996,5 +998,3 @@ vmess://ewogICAgImFkZCI6ICJsdDEtdm1lc3Muc3NobWF4Lnh5eiIsCiAgICAiYWlkIjogMCwKICAg
 ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@103.172.116.103:9060#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.103-0938
 ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw==@103.172.116.90:9018#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.90-7646
 vmess://ewogICAgImFkZCI6ICIxNTguMTAxLjcuOCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiOTViNDVjNDktZjVjMC00OTU5LWJiNjQtMmI4ZmJjNGE4NjljIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh7rwn4e4VVMtMTU4LjEwMS43LjgtMzQ3NCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogIjE1OC4xMDEuNy44Igp9
-ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg==@103.172.116.103:9015#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.103-0935
-ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@103.172.116.79:9000#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.79-7706
