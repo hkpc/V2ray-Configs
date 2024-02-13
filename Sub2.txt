@@ -1,3 +1,8 @@
+ss://aes-256-gcm:3915566e-647b-4d04-84c4-6c028d37c71f@es-full.privateip.net:8443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:a3d3d0c8-1f37-4ad4-b769-34760f869401@sg2-full.privateip.net:8443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:df47add0-c91a-48fc-8d34-b3d1c6f65c6a@id-full.privateip.net:8443#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:dcd429ec-0d63-48f7-ace6-e6f402f8928f@ca-full.privateip.net:8443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:268b5b09-fb8b-4b8b-9c3e-e94b4e6a006f@ca2-full.privateip.net:8443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:c0a32f55-ccb9-410d-b3e5-6f8ccef1e714@fr-full.privateip.net:8443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Shadowsocks%20@V2rayStore
 vless://4e2b1a01-d4b8-478f-9367-e402f66e7895@us2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20TCP%20@V2rayStore
 vless://4a26c7e7-ea92-4259-87d6-86833e874394@uk-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20TCP%20@V2rayStore
@@ -993,8 +998,3 @@ vmess://ewogICAgImFkZCI6ICJ3d3cubmFoY2suc2l0ZSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 vmess://ewogICAgImFkZCI6ICIxMDMuMTU5LjIwNi4zNSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZTJlNTExYjAtN2RlZi00ZTFiLWQyMzgtNmNiNTM5MWIyZTNmIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDMxOTQ1LAogICAgInBzIjogIvCfh7nwn4e8VFctMTAzLjE1OS4yMDYuMzUtMDQ2MiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@103.172.116.79:9059#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.79-0213
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.176.29:989#%F0%9F%87%A6%F0%9F%87%B7AR-190.103.176.29-0913
-ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@45.89.52.66:9043#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-0933
-vmess://ewogICAgImFkZCI6ICIxNDYuNTkuMTkyLjE2MiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImludGVybmV0LmxpZmUuY29tLmJ5IiwKICAgICJpZCI6ICI2MTdjOWJjNC00MTE2LTQxYzYtOTllMC1hY2U0OWEzOGZjZGIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvSm52OFZpWk9VVmdpampPaDBwNXVHakhuWElpWSIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh6vwn4e3RlItMTQ2LjU5LjE5Mi4xNjItMTM3MiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.142.4:989#%F0%9F%87%B5%F0%9F%87%A6PA-138.186.142.4-0916
-ss://YWVzLTI1Ni1jZmI6MjE3MGY4@45.55.2.232:14293#%F0%9F%87%BA%F0%9F%87%B8US-45.55.2.232-0881
-ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@103.172.116.94:9084#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.94-0900
