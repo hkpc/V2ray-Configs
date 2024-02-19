@@ -1,6 +1,3 @@
-trojan://wkmY1R4EcP@78.141.221.194:443/?type=tcp&security=tls&sni=z-v2-002750.kailib.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2021
-trojan://7b4066ae-accc-11eb-a8bf-f23c91cfbbc9@114.43.162.29:443/?type=tcp&security=tls&sni=85d7bf8d-s95wg0-0-zzkl.tw3.p5pv.com#%F0%9F%87%A8%F0%9F%87%B3%20Taiwan%207
-trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@188.114.99.29:443/?type=tcp&security=tls&sni=hdfy8c1.foriran.me#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2022
 trojan://292c9896-4201-4329-95d0-168980747f7c@ca2-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2014
 trojan://4732adfa16c6450bbef87264e41332db@104.17.61.7:443/?type=ws&host=jobscareerfortoday.com&path=6b777a91&security=tls&sni=jobscareerfortoday.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20629
 trojan://P2ZYalWEgx6v@43.207.176.184:14663/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2018
@@ -998,3 +995,6 @@ vmess://ewogICAgImFkZCI6ICIxMDQuMjEuMjI1LjEyMyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.143.66.99:8118#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.99-1209
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.99:5001#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.99-1210
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@78.129.253.9:809#%F0%9F%87%AC%F0%9F%87%A7GB-78.129.253.9-1212
+ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@185.167.116.24:9097#%F0%9F%87%A6%F0%9F%87%BAAU-185.167.116.24-1213
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.85:5600#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-1214
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@134.195.196.149:7307#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.149-1215
