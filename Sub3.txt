@@ -1,12 +1,3 @@
-trojan://Il0opvZR6iDw@3.8.144.51:14637/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2049
-trojan://N88x4VwVUuur@13.38.45.31:14663/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2085
-trojan://VeM6y7UuoQeA@35.91.87.149:14662/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20633
-trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443/?type=ws&host=jobscareertoday.com&path=6b777a91&security=tls&sni=jobscareertoday.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20634
-trojan://wkmY1R4EcP@66.42.84.121:443/?type=tcp&security=tls&sni=z-v2-002797.kailib.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20635
-trojan://AhEcWA9fka@45.76.179.201:10505/?type=tcp&security=tls&sni=android.googleapis.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2012
-trojan://telegram-id-directvpn@13.48.179.241:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2017
-trojan://wkmY1R4EcP@45.32.148.182:443/?type=tcp&security=tls&sni=z-v2-002805.kailib.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2086
-trojan://telegram-id-directvpn@3.134.199.89:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20636
 trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443/?type=ws&host=jobscareerforstudent.com&path=6b777a91&security=tls&sni=jobscareerforstudent.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20637
 trojan://EjecXwK17@116.203.148.62:8080/?type=tcp&security=tls&sni=fast.jahansystem.sbs#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2045
 trojan://baK7WgKmovkz@3.112.220.195:14625/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2019
@@ -998,3 +989,12 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8119#%F0%9F%87%BA%F0%9F%8
 vmess://ewogICAgImFkZCI6ICIxMDQuMjEuMjI1LjEzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiYS5wcmFwdDUuaXIiLAogICAgImlkIjogIjcwMjI5ODJmLWRhNGMtNDhjOS1jNjYwLWIyMzE1YWJkY2Y3ZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8/ZWQ9MjA0OFx1MDAyNlRlbGVncmFt8J+HqPCfh7NAV2FuZ0NhaV84IiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yMS4yMjUuMTMtMDI5NyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@213.183.53.222:9014#%F0%9F%87%B7%F0%9F%87%BARU-213.183.53.222-1224
 vmess://ewogICAgImFkZCI6ICIxMDQuMjEuMjI1LjIzOSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImEucHJhcHQ1LmlyIiwKICAgICJpZCI6ICI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yMS4yMjUuMjM5LTAyOTYiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+trojan://dd04c158-1bac-47cd-99c1-5c4f64796dd5@supersouth.xn--mesv7f5toqlp.club:12004?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.182.249-1227
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwcnloeXh5YQ==@52.58.249.78:57824#%F0%9F%87%A9%F0%9F%87%AADE-52.58.249.78-1229
+vmess://ewogICAgImFkZCI6ICIxMDQuMjEuMjM4LjczIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiYS5wcmFwdDUuaXIiLAogICAgImlkIjogIjcwMjI5ODJmLWRhNGMtNDhjOS1jNjYwLWIyMzE1YWJkY2Y3ZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjIzOC43My0wMjk1IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8882#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-1231
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@196.247.59.154:800#%F0%9F%87%A8%F0%9F%87%A6CA-196.247.59.154-1232
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@172.99.190.39:5500#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-1233
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.135.18:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.18-1234
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@172.99.190.39:5003#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-1235
+ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@213.183.63.221:9001#%F0%9F%87%A7%F0%9F%87%ACBG-213.183.63.221-1237
