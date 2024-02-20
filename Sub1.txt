@@ -617,6 +617,9 @@ vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083?type=grpc&encryp
 vless://24547b31-f7f7-4fb8-944d-daf2757079a6@172.67.170.236:8443?type=grpc&encryption=none&security=tls&sni=fox.arisan-10.site&alpn=h2,http/1.1&fp=chrome#🇨🇦CA | vless | @TVCminer | 13
 vless://352f8151-f56f-4858-a855-b338e3053e6d@85.9.96.131:2087?type=tcp&encryption=none&sni=www.speedtest.net&fp=chrome&security=reality&pbk=2-t9uUzRV61JYk2SuEzWmNuKgh_lG5IteIJ_pHPcPWM&sid=21e8adbf#🇮🇷IR | vless | @TVCminer | 15
 vless://92a1f114-c0e3-415a-b065-1aaa97e01867@185.58.241.132:55042?encryption=none&host=www.speedtest.net&type=tcp&headerType=http#🇮🇷IR | vless | @TVCminer | 16
+trojan://n8KmWr0Tdr@winstonsilver.click:443?path=%2FHyhfFJHhuuGFDRE&security=tls&alpn=h2,http/1.1&fp=chrome&type=ws&sni=winstonsilver.click#1-wodbihah
+trojan://n8KmWr0Tdr@winstonsilver.click:443?path=%2FHyhfFJHhuuGFDRE&security=tls&alpn=h2,http/1.1&fp=chrome&type=ws&sni=winstonsilver.click#1-wodbihah
+
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@104.21.28.62:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#Fast+%281%29+%E2%9A%A1%EF%B8%8F
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@jp10.vlessx.xyz:8443?path=fuck_yes%21&security=tls&encryption=none&host=pages.20230619.love&type=ws&sni=pages.20230619.love#Fast+%282%29+%E2%9A%A1%EF%B8%8F
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@sg21.vlessx.xyz:8443?path=fuck_yes%21&security=tls&encryption=none&host=pages.20230619.love&type=ws&sni=pages.20230619.love#Fast+%283%29+%E2%9A%A1%EF%B8%8F
@@ -995,6 +998,3 @@ vless://7d3b945d-0f23-4719-9fae-50033251e2fd@i.badboys.gq:2053?sni=dl2.khodavaki
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@mtn.anahid.beauty:2053?sni=dl2.khodavakili.lol&type=grpc&mode=gun&alpn=h2&serviceName=kos_madar_publisher&security=tls&encryption=none#server mtn 7
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@niaa.ddns.net:2053?sni=dl2.khodavakili.lol&type=grpc&mode=gun&alpn=h2&serviceName=kos_madar_publisher&security=tls&encryption=none#server mtn 8
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@ir8.seeb.shop:2053?sni=dl2.khodavakili.lol&type=grpc&mode=gun&alpn=h2&serviceName=kos_madar_publisher&security=tls&encryption=none#server mtn 9
-vless://7d3b945d-0f23-4719-9fae-50033251e2fd@www.speedtest.net:443?sni=qwhtnnrgop7cjp05p2q0.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  10
-vless://7d3b945d-0f23-4719-9fae-50033251e2fd@mci.tahermollaei.pw:443?sni=5tut117qc2g6nrc19j56.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  11
-vless://7d3b945d-0f23-4719-9fae-50033251e2fd@cloudflare.quest:443?sni=cndb9wjin2i7vab5vvcg.khodavakili.top&host=dl.khodavakili.top&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  12
