@@ -628,8 +628,9 @@ vless://f5ea3fca-dd33-4bf1-9a2c-5edc75a21adb@104.16.1.35:2087?type=grpc&encrypti
 vless://be13c79a-1913-4e6c-954f-2d505f467aea@46.245.64.63:41645?encryption=none&host=www.speedtest.net&type=tcp&headerType=http#🇮🇷IR | vless | @TVCminer | 16
 vless://352f8151-f56f-4858-a855-b338e3053e6d@85.9.96.131:2087?type=tcp&encryption=none&sni=www.speedtest.net&fp=chrome&security=reality&pbk=2-t9uUzRV61JYk2SuEzWmNuKgh_lG5IteIJ_pHPcPWM&sid=21e8adbf#🇮🇷IR | vless | @TVCminer | 17
 vless://92a1f114-c0e3-415a-b065-1aaa97e01867@185.58.241.132:55042?encryption=none&host=www.speedtest.net&type=tcp&headerType=http#🇮🇷IR | vless | @TVCminer | 18
-trojan://n8KmWr0Tdr@winstonsilver.click:443?path=%2FHyhfFJHhuuGFDRE&security=tls&alpn=h2,http/1.1&fp=chrome&type=ws&sni=winstonsilver.click#1-wodbihah
-trojan://n8KmWr0Tdr@winstonsilver.click:443?path=%2FHyhfFJHhuuGFDRE&security=tls&alpn=h2,http/1.1&fp=chrome&type=ws&sni=winstonsilver.click#1-wodbihah
+trojan://55d83a1f-acad-4bca-b08d-73189854b5b5@dl.nabestan.com:443?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp&sni=dl.nabestan.com#55d83a1f-trojan_tcp
+trojan://55d83a1f-acad-4bca-b08d-73189854b5b5@dl.nabestan.com:443?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp&sni=dl.nabestan.com#55d83a1f-trojan_tcp
+trojan://55d83a1f-acad-4bca-b08d-73189854b5b5@dl.nabestan.com:443?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp&sni=dl.nabestan.com#55d83a1f-trojan_tcp
 
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@104.21.28.62:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#Fast+%281%29+%E2%9A%A1%EF%B8%8F
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@jp10.vlessx.xyz:8443?path=fuck_yes%21&security=tls&encryption=none&host=pages.20230619.love&type=ws&sni=pages.20230619.love#Fast+%282%29+%E2%9A%A1%EF%B8%8F
