@@ -1,7 +1,3 @@
-trojan://telegram-id-directvpn@18.195.86.66:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2058
-trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@188.114.99.29:443/?type=tcp&security=tls&sni=hdfy8c1.foriran.me#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2023
-trojan://aa3fd3b3-7c35-4cb4-b27c-f616b3f8a323@uk-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2047
-trojan://2b6fd089-082f-4882-b77c-70f52ebbe216@ua-full.privateip.net:443/?type=tcp&security=tls#Latvia%202
 trojan://sZv4GkOMq8vd@54.188.52.177:16636/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20624
 trojan://0e81a9cd-d849-4101-8d64-574c283207de@104.21.69.44:2083/?type=ws&host=de1.trojanvpn.de&path=%2Fwebsocket&security=tls&sni=de1.trojanvpn.de#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20625
 trojan://p3x4Yys6whne@18.171.180.91:16632/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2048
@@ -998,3 +994,7 @@ trojan://d9ee78a4-ddf6-4650-979e-4eb2c72fd11d@lbhk.bnnodeservice.com:32008?secur
 trojan://d9ee78a4-ddf6-4650-979e-4eb2c72fd11d@lbhk.bnnodeservice.com:32005?security=tls&sni=cert.bitbyte.one#%F0%9F%87%A8%F0%9F%87%B3CN-211.99.98.154-1334
 trojan://d9ee78a4-ddf6-4650-979e-4eb2c72fd11d@lbsh.bnnodeservice.com:34017?security=tls&sni=cert.bitbyte.one#%F0%9F%87%A8%F0%9F%87%B3CN-183.192.116.133-1335
 trojan://d9ee78a4-ddf6-4650-979e-4eb2c72fd11d@lbhk.bnnodeservice.com:32031?security=tls&sni=cert.bitbyte.one#%F0%9F%87%A8%F0%9F%87%B3CN-211.99.98.145-1336
+vmess://ewogICAgImFkZCI6ICIxMDQuMjEuMjI4LjIyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yMS4yMjguMjItMTMzNyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.16.159.9:443?security=tls&sni=bangladeshipatri.com&type=ws&path=6b777a91&Host=bangladeshipatri.com#%F0%9F%8F%81RELAY-104.16.159.9-1338
+vmess://ewogICAgImFkZCI6ICIxMDQuMjEuMjMxLjU5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvP2VkPTIwNDgiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjIzMS41OS0xMzM5IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+vmess://ewogICAgImFkZCI6ICIxMDQuMjEuMjMyLjQxIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvP2VkPTIwNDgiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjIzMi40MS0xMzQwIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
