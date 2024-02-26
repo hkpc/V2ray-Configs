@@ -1,3 +1,7 @@
+ss://aes-256-gcm:201898c1-e6e3-4f01-8334-c430e1188bd2@ca2-full.privateip.net:8443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:07807784-9808-473c-841c-a760ce5a19f0@in-full.privateip.net:8443#%F0%9F%87%AE%F0%9F%87%B3%20India%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:24ce1598-bdab-4357-b8fc-be681a6d2f62@fr-full.privateip.net:8443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Shadowsocks%20@V2rayStore
+vless://4e2b1a01-d4b8-478f-9367-e402f66e7895@us2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20TCP%20@V2rayStore
 vless://647f1c6a-50ed-45bd-a612-c7572e0de1b1@kz-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20TCP%20@V2rayStore
 vless://4a26c7e7-ea92-4259-87d6-86833e874394@uk-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20TCP%20@V2rayStore
 vless://fe6b171f-0996-4cca-89b6-8bf2b7f70cb4@de-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20@V2rayStore
@@ -994,7 +998,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@89.31.126.171:800#%F0%9F%8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:807#%F0%9F%87%AF%F0%9F%87%B5JP-45.66.134.176-0497
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:802#%F0%9F%87%AF%F0%9F%87%B5JP-45.66.134.176-0496
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:811#%F0%9F%87%AF%F0%9F%87%B5JP-45.66.134.176-0495
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.160.24.217:811#%F0%9F%87%AF%F0%9F%87%B5JP-185.160.24.217-0494
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:810#%F0%9F%87%AF%F0%9F%87%B5JP-45.66.134.176-0493
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.160.24.217:812#%F0%9F%87%AF%F0%9F%87%B5JP-185.160.24.217-0492
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.160.24.217:804#%F0%9F%87%AF%F0%9F%87%B5JP-185.160.24.217-0491
