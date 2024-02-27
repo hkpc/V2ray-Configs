@@ -1,3 +1,12 @@
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@172.99.190.188:9101#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.188-0041
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.91.100.207:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.91.100.207-10056
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@172.99.188.71:5500#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-10057
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.188.71:5001#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-10058
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@167.88.63.79:5004#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.79-10059
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.91.107.16:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-10060
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.48.34:7307#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.34-10061
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.107.226.48:5003#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.48-10063
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.64.138.145:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-10064
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.86.135.27:8882#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.27-10065
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.64.138.145:5600#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-10066
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.91.100.207:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.91.100.207-10067
@@ -989,12 +998,3 @@ vless://03bba736-2133-48e1-b779-72abdc38050b@irancell1.cl0udflar3.com:80?encrypt
 vless://CUSTOMIZEV2ray@154.197.75.98:8080?encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&path=%2F%40VPNCUSTOMIZE&security=none&type=ws#رایگان | VLESS | @frev2ray | DE🇩🇪 | 0️⃣4️⃣
 vless://V2rayCUSTOMIZE@www.SPeedtest.NeT:8080?encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&path=%2F%40VPNCUSTOMIZE&security=none&type=ws#رایگان | VLESS | @frev2ray | CA🇨🇦 | 0️⃣5️⃣
 vless://VPNCUSTOMIZE@91.193.58.20:80?encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&path=%2F%40TMCUSTOMIZE&security=none&type=ws#رایگان | VLESS | @frev2ray | GB🇬🇧 | 0️⃣6️⃣
-vless://ID---TMCUSTOMIZE@www.SPeedtest.NeT:80?encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&path=%2F%40TMCUSTOMIZE&security=none&type=ws#رایگان | VLESS | @frev2ray | CA🇨🇦 | 0️⃣7️⃣
-vless://telegram-id-ArV2ray@104.16.106.177:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray&sni=o.agh9731.ir&type=grpc#رایگان | VLESS | @ARv2ray | CA🇨🇦 | 0️⃣1️⃣
-vless://telegram-id-ArV2ray@104.16.106.177:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray&sni=t.agh9731.ir&type=grpc#رایگان | VLESS | @ARv2ray | CA🇨🇦 | 0️⃣2️⃣
-vless://telegram-id-ArV2ray@www.speedtest.net:80?encryption=none&host=l.i.l.i.l.i.l.i.l.wwww.%E5%88%9B%E4%BC%98%E8%88%8D.Store.&path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @ARv2ray | CA🇨🇦 | 0️⃣3️⃣
-vless://telegram-id-ArV2ray@www.speedtest.net:80?encryption=none&host=l.i.l.i.l.i.l.i.l.i.i.o.0.%E5%88%9B%E4%BC%98%E8%88%8D.Store.&path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @ARv2ray | CA🇨🇦 | 0️⃣4️⃣
-vless://telegram-id-ArV2ray@104.16.106.177:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray&sni=u.agh9731.ir&type=grpc#رایگان | VLESS | @ARv2ray | CA🇨🇦 | 0️⃣5️⃣
-vless://42750dd8-2b0c-4964-93ef-11eeae821ba2@154.197.75.98:80?encryption=none&host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org.&path=%2F&security=none&type=ws#رایگان | VLESS | @shh_proxy | DE🇩🇪 | 0️⃣1️⃣
-vless://a4684f0d-1fff-4060-8e3a-7197aace9e3f@www.speedtest.net:80?encryption=none&host=SHHPROXY-free.xn--69-pv2cl2k5x3fipr.org.&path=%2F&security=none&type=ws#رایگان | VLESS | @shh_proxy | CA🇨🇦 | 0️⃣2️⃣
-vless://f0c80ece-f90f-4d85-b40f-01dd744e0f2f@154.197.75.98:80?encryption=none&host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org.&path=%2F&security=none&type=ws#رایگان | VLESS | @shh_proxy | DE🇩🇪 | 0️⃣3️⃣
