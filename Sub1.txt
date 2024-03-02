@@ -1,3 +1,4 @@
+
 à`ñ!¶ia¶il·)^è ÝtÒvg­jv¦zøÂ+µÊ'µéíÂ'm×¯Ç°Ûax­©lq©^ÖÈky-¡ø­íÙ^ãN
 ¢Ñhºw¶+e{ø^iÖèw+-ÊW
 #profile-title: base64:VFZDIHwgTUlY
@@ -997,4 +998,3 @@ vless://6e5eaa38-4cd4-49fa-94b2-99e528a57d74@es-full.privateip.net:443?type=tcp&
 vless://cd862f83-d8c2-445f-97e7-4f8ecd5b7939@sg-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://630bbce1-d462-4637-99ae-fa003c10ac8c@sg2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@sg3-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20TCP%20XTLS%20@V2rayStore
-vless://6f7e7091-6f7f-4906-b499-bc0e5f844fae@id-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Vless%20TCP%20XTLS%20@V2rayStore
