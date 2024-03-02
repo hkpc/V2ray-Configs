@@ -1,3 +1,6 @@
+vless://d6effb76-1de3-4b17-b80e-3a7c55e6dcc4@ca2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vless%20TCP%20XTLS%20@V2rayStore
+vless://80d6e626-0cd6-471e-a815-1522e15679b4@in-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B3%20India%20Vless%20TCP%20XTLS%20@V2rayStore
+vless://8afcf563-a268-46f6-ba81-1b5b8b88d38f@jp-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://ae4ed37c-1a72-4eb7-b72c-2be08b5ae7a2@fr-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://d850a191-6afd-40de-b08e-653e4ff7806e@fr2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://454f84df-724d-442a-a4a2-698a6d63f946@fr3-full.privateip.net:443?type=tcp&encryption=none&security=xtls&path=%2f&headerType=none&flow=xtls-rprx-direct#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20XTLS%20@V2rayStore
@@ -995,6 +998,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.63.79:3306#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@195.154.200.150:2376#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.200.150-1079
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@145.239.1.100:8080#%F0%9F%87%A9%F0%9F%87%AADE-145.239.1.100-1080
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8119#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-1081
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:8888#%F0%9F%87%A9%F0%9F%87%AADE-145.239.1.100-1082
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@169.197.141.14:7002#%F0%9F%87%BA%F0%9F%87%B8US-169.197.141.14-0357
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@213.183.53.222:9014#%F0%9F%87%B7%F0%9F%87%BARU-213.183.53.222-1084
