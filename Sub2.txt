@@ -1,6 +1,3 @@
-vless://e982aa04-033d-4811-a6eb-724ea8e5300d@ca2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vless%20WS%20@V2rayStore
-vless://8afcf563-a268-46f6-ba81-1b5b8b88d38f@jp-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Vless%20WS%20@V2rayStore
-vless://bc92119a-b73d-45d4-9f14-e7754bfa9ca1@fr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20WS%20@V2rayStore
 vless://454f84df-724d-442a-a4a2-698a6d63f946@fr3-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fvless&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20WS%20@V2rayStore
 vmess://eyJhZGQiOiAiMTYyLjE1OS4yNTQuOTgiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJzZy12MzIucTV3cmZmN2p0a2RnMjMudG9wIiwgImlkIjogIjc2YzA5YTdlLWUwZTQtNDNhMC1hMWUyLWQ4NTYzYWEzYmFlZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMjA4MiIsICJwcyI6ICIlRjAlOUYlODclQkElRjAlOUYlODclQjglMjBVbml0ZWQlMjBTdGF0ZXMlMjBWbWVzcyUyMEBWMnJheVN0b3JlIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAiMTg1LjI0Mi4yMzIuMTY0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI3ODRlNzQ2Ni1jOTI2LTRjNTAtZGJmNC1mMDdmZThlYWY3N2QiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjI1MTg1IiwgInBzIjogIiVGMCU5RiU4NyVBRCVGMCU5RiU4NyVCMCUyMEhvbmclMjBLb25nJTIwVm1lc3MlMjBAVjJyYXlTdG9yZSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
@@ -998,3 +995,6 @@ trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@hkjs.liangyuandiancloud.com:443?se
 trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@usa.liangyuandiancloud.com:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-52.229.202.116-1205
 trojan://17cae44f-1b58-4407-bb31-8273b7a51ff2@vpnpool.liangyuandiancloud.com:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-52.229.202.116-1207
 trojan://9bb27128-e6d2-4cac-bbd3-beb46c4417f8@hk01.trojanyyds.xyz:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-13.94.33.37-1208
+trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@sg.liangyuandiancloud.com:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-52.229.202.116-1210
+trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@ukjs.liangyuandiancloud.com:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-52.229.202.116-1211
+trojan://07f10d31-d247-440e-a921-23862e1148a9@hk04.trojanyyds.xyz:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.78.89.38-1212
