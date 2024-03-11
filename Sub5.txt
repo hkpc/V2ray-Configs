@@ -1,3 +1,8 @@
+trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@iplc.xiaohouzi.club:20035?security=tls&sni=a1.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-3.20.137.44-6277
+trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@iplc.xiaohouzi.club:20034?security=tls&sni=hk-azure04.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-3.141.96.53-6278
+trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@hnm.xiaohouzi.club:19353?security=tls&sni=a89.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-3.20.137.44-6279
+trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@hnm.xiaohouzi.club:19363?security=tls&sni=hnm.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-3.141.96.53-6281
+trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@hn.xiaohouzi.club:18457?security=tls&sni=aru02.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-3.20.137.44-6282
 trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@hnm.xiaohouzi.club:17105?security=tls&sni=tukey.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-3.20.137.44-6284
 trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@hn.xiaohouzi.club:18431?security=tls&sni=ajpn01.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-3.20.137.44-6285
 trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@hn.xiaohouzi.club:28456?security=tls&sni=douk01.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-3.141.96.53-6286
@@ -993,8 +998,3 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.64.138.145:5004#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.99.190.149:8090#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.149-8136
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.86.135.27:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.27-8137
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.64.138.145:8090#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-8139
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@142.202.48.74:443#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.74-8141
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.36:5600#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-8142
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.190.61:5000#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.61-8143
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.135.19:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.19-8144
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@172.99.190.39:8000#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-8145
