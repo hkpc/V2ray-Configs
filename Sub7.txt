@@ -1,3 +1,4 @@
+vless://Parsashonam-24@190.93.247.247:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=mail.offch.blog&path=%2F&security=tls&sni=mail.offch.blog&type=ws#رایگان | VLESS | @Parsashonam | CR🇨🇷 | 0️⃣4️⃣
 vless://Parsashonam-26@www.speedtest.net:8080?encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=%2F&security=none&type=ws#رایگان | VLESS | @Parsashonam | CA🇨🇦 | 0️⃣5️⃣
 vless://Parsashonam-23@190.93.247.247:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=mail.offch.blog&path=%2F&security=tls&sni=mail.offch.blog&type=ws#رایگان | VLESS | @Parsashonam | CR🇨🇷 | 0️⃣6️⃣
 vless://Parsashonam-25@www.speedtest.net:8080?encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=%2F&security=none&type=ws#رایگان | VLESS | @Parsashonam | CA🇨🇦 | 0️⃣7️⃣
