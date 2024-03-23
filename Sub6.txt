@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@61.220.130.70:50701#%F0%9F%87%B9%F0%9F%87%BCTW-61.220.130.70-8916
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.254.129.246:443#%F0%9F%87%B8%F0%9F%87%ACSG-54.254.129.246-8917
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=namayesh.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-8919
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=asriran.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-8921
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=softsaaz.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-8925
@@ -996,5 +998,3 @@ vless://76c53f1d-682b-4789-bbcc-d18a947d9088@discord.gg:80?encryption=none&host=
 vless://8172ce99-4146-4dbe-bbd0-cf6533081014@Join.ShhProxy.Site:80?encryption=none&host=shhproxy.xn--85-pv2cl2k5x3fipr.org&path=%2F&security=none&type=ws#رایگان | VLESS | @flyv2ray | RU🇷🇺 | 0️⃣6️⃣
 vless://4d78ae82-ffd0-4b19-8288-eb0b705fd706@65.109.161.145:23500?encryption=none&headerType=http&host=speedtest&security=none&type=tcp#رایگان | VLESS | @forwardv2ray | FI🇫🇮 | 0️⃣1️⃣
 vless://7d34fe8c-9655-437e-89d7-df4f15d1bdb0@91.193.58.1:2052?encryption=none&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0mdmd8.v2rayng-mmd.cfd.&path=%2F%3Fed%3D2053&security=none&type=ws#رایگان | VLESS | @forwardv2ray | GB🇬🇧 | 0️⃣2️⃣
-vless://fd93ee60-d2dc-4222-85e0-7ea12dd717be@iranserver.com:443?encryption=none&fp=chrome&host=fr2-vless.sshmax.xyz&path=%2Fvless&security=tls&sni=fr2-vless.sshmax.xyz&type=ws#رایگان | VLESS | @FAKEOFTVC | CA🇨🇦 | 0️⃣1️⃣
-vless://d12b0058-7514-49e4-a717-2bd099a602a8@s1.kinglionir.one:443?encryption=none&mode=gun&security=tls&serviceName=443vless&sni=s1.kinglionir.one&type=grpc#رایگان | VLESS | @FAKEOFTVC | NL🇳🇱 | 0️⃣2️⃣
