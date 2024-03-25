@@ -1,3 +1,12 @@
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.137.42:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.75.137.42-0487
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.136.33:8119#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.33-0468
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.33:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.33-0484
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.21:5003#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-0864
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5001#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-2898
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@169.197.142.216:7002#%F0%9F%87%BA%F0%9F%87%B8US-169.197.142.216-0319
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.135:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.135-8144
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.136.135:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.135-8631
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.42:8091#%F0%9F%87%BA%F0%9F%87%B8US-38.75.137.42-0488
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.87-8606
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.135:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.135-8650
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.136.21:8118#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-8214
@@ -989,12 +998,3 @@ trojan://8ea8faa9-44b5-403c-ad3e-dbf76a52c2f5@xibaozi.19890604.day:10849?securit
 trojan://8ea8faa9-44b5-403c-ad3e-dbf76a52c2f5@tank.19890604.day:10827?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.6-1777
 trojan://8ea8faa9-44b5-403c-ad3e-dbf76a52c2f5@tank.19890604.day:10828?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.6-1778
 trojan://8ea8faa9-44b5-403c-ad3e-dbf76a52c2f5@tank.19890604.day:10829?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.7-1779
-trojan://8ea8faa9-44b5-403c-ad3e-dbf76a52c2f5@tank.19890604.day:10830?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.7-1780
-trojan://8ea8faa9-44b5-403c-ad3e-dbf76a52c2f5@tank.19890604.day:10831?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.7-1781
-trojan://8ea8faa9-44b5-403c-ad3e-dbf76a52c2f5@tank.19890604.day:10832?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.6-1782
-trojan://8ea8faa9-44b5-403c-ad3e-dbf76a52c2f5@tank.19890604.day:10833?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.6-1783
-trojan://8ea8faa9-44b5-403c-ad3e-dbf76a52c2f5@tank.19890604.day:10834?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.7-1784
-trojan://8ea8faa9-44b5-403c-ad3e-dbf76a52c2f5@xijinping.19890604.day:10811?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.7-1785
-trojan://8ea8faa9-44b5-403c-ad3e-dbf76a52c2f5@xijinping.19890604.day:10812?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.6-1786
-trojan://8ea8faa9-44b5-403c-ad3e-dbf76a52c2f5@xijinping.19890604.day:10813?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.7-1787
-trojan://8ea8faa9-44b5-403c-ad3e-dbf76a52c2f5@xijinping.19890604.day:10814?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.7-1788
