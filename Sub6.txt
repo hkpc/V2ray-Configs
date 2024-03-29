@@ -1,6 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@37.120.147.230:800#%F0%9F%87%BA%F0%9F%87%B8US-37.120.147.230-8593
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.64.138.145:5000#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-8594
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@167.88.63.44:2375#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.44-8595
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@172.99.188.71:8000#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-8596
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@134.195.196.51:8119#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.51-0019
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.36:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-8598
@@ -998,3 +995,6 @@ vmess://eyJhZGQiOiIxMDQuMjYuOS4yMDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vless://ELiV2RAY@www.visa.com:80?encryption=none&host=EliV2ray.naziitness.com.&path=%2F&security=none&type=ws#رایگان | VLESS | @EliV2ray | CA🇨🇦 | 0️⃣1️⃣
 vless://9af28087-87e6-44ae-a6e0-51852ecab457@172.67.192.204:8443?encryption=none&fp=chrome&security=tls&sni=store.mtahaa.sbs&type=grpc#رایگان | VLESS | @EliV2ray | CA🇨🇦 | 0️⃣2️⃣
 vless://c1171794-5516-4550-98f6-b6afe9b658ec@104.26.13.8:2096?alpn=h2&encryption=none&fp=chrome&security=tls&sni=eng.49z.info&type=grpc#رایگان | VLESS | @EliV2ray | CA🇨🇦 | 0️⃣3️⃣
+vless://c3e1ba33-4fcc-45bc-aa87-d4faeb8e761b@www.visa.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&mode=gun&security=tls&serviceName=%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY&sni=EliV2ray.naziitness.com&type=grpc#رایگان | VLESS | @EliV2ray | CA🇨🇦 | 0️⃣4️⃣
+vless://--ELiV2RAY-ELiV2RAY--@23.227.60.87:80?host=EliV2ray.naziitness.com.&path=%2F&security=none&type=ws#رایگان | VLESS | @EliV2ray | CA🇨🇦 | 0️⃣5️⃣
+vless://--ELiV2RAY--ELiV2RAY--@23.227.60.87:80?encryption=none&host=EliV2ray.naziitness.com.&path=%2F&security=none&type=ws#رایگان | VLESS | @EliV2ray | CA🇨🇦 | 0️⃣6️⃣
