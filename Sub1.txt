@@ -995,6 +995,6 @@ vless://30bacb3e-a515-42bc-9e0b-5241f32e8080@190.93.246.241:80?path=%2F&security
 vless://30bacb3e-a515-42bc-9e0b-5241f32e8080@190.93.246.241:80?path=%2F&security=none&encryption=none&host=118.xn--ok0ba23wca23lba986qumjx1g6pa134h6zc.info&type=ws#%F0%9F%87%BA%F0%9F%87%B8+%40v2raySHield++%7C++%28118%29
 vless://30bacb3e-a515-42bc-9e0b-5241f32e8080@190.93.246.241:80?path=%2F&security=none&encryption=none&host=119.xn--ok0ba23wca23lba986qumjx1g6pa134h6zc.info&type=ws#%F0%9F%87%BA%F0%9F%87%B8+%40v2raySHield++%7C++%28119%29
 vless://30bacb3e-a515-42bc-9e0b-5241f32e8080@190.93.246.241:80?path=%2F&security=none&encryption=none&host=120.xn--ok0ba23wca23lba986qumjx1g6pa134h6zc.info&type=ws#%F0%9F%87%BA%F0%9F%87%B8+%40v2raySHield++%7C++%28120%29
-vless://7d3b945d-0f23-4719-9fae-50033251e2fd@KOSeMADAR-PUBLISHER.ddns.net:443?sni=q77gpucuontxt4hkbdg8.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  1
-vless://7d3b945d-0f23-4719-9fae-50033251e2fd@09303582303.ddns.net:443?sni=4n5c7jo0lca3g3upivhj.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  2
-vless://7d3b945d-0f23-4719-9fae-50033251e2fd@cf.naixii.top:443?sni=v6gincu0wq8d0xnxd1vd.khodavakili.top&host=dl.khodavakili.top&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  3
+vless://349ca13d-a89d-4541-8701-69d9069d7172@lathworks.aurorainiceland.com:2096?type=ws&path=%2Flathworks&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=lathworks.aurorainiceland.com#lathworks-2dw1d4fs
+vless://ff3c4db3-2259-479e-a0e0-7af7d1d429db@shaliest.toptechnonews.com:443?encryption=none&security=tls&type=ws&host=shaliest.toptechnonews.com&sni=shaliest.toptechnonews.com&path=/nimws#shaliest.toptechnonews.com_VLESS_WS
+vless://089f4e2e-2167-4e4c-a050-91b9997ba0b9@ilm.minusober.com:443?type=ws&path=%2Film&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ilm.minusober.com#ilm-heb83z07
