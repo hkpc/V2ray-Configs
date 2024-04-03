@@ -996,5 +996,5 @@ vless://7d3b945d-0f23-4719-9fae-50033251e2fd@www.speedtest.net:443?sni=qwhtnnrgo
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@mci.tahermollaei.pw:443?sni=5tut117qc2g6nrc19j56.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  11
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@cloudflare.quest:443?sni=cndb9wjin2i7vab5vvcg.khodavakili.top&host=dl.khodavakili.top&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  12
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@cm.db-link.in:443?sni=0xjwju9wgnxxb7x6ck59.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  13
-vless://bffead23-bd0b-44dd-b4cb-b2a745ae069f@muna.minusober.com:443?type=ws&path=%2Fmuna&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=muna.minusober.com#muna-oitcm56n
-vless://d15f5947-f95c-4cc4-b8e0-20219e4bc2d1@divide.footballlovernews.com:443?type=ws&path=%2Fdivide&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=divide.footballlovernews.com#divide-r10fgt3g
+vless://c0f6349f-b40d-4320-a75e-550bd81cb0f1@us-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
+vless://fc31e59b-a364-4b0b-afa3-fddf67d28020@us2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
