@@ -1,3 +1,5 @@
+trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@hnm.xiaohouzi.club:19353?security=tls&sni=a89.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-72.52.178.23-5805
+trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@hnm.xiaohouzi.club:19363?security=tls&sni=hnm.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-72.52.178.23-5807
 trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@hn.xiaohouzi.club:18457?security=tls&sni=aru02.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-72.52.178.23-5808
 trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@hnm.xiaohouzi.club:17105?security=tls&sni=tukey.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-72.52.178.23-5810
 trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@hn.xiaohouzi.club:18431?security=tls&sni=ajpn01.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-72.52.178.23-5811
@@ -996,5 +998,3 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.135.19:8008#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@172.99.190.39:8000#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-7671
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@167.88.61.50:8882#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.50-7672
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.91.107.16:6679#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-7674
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.191:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.191-7675
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.107.226.48:8090#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.48-7677
