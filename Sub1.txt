@@ -1,3 +1,4 @@
+
 à`ñ!¶ia¶il·)^è ÝtÒvg­jv¦zøÂ+µÊ'µéíÂ'm×¯Ç°Ûax­©lq©^ÖÈky-¡ø­íÙ^ãN
 ¢Ñhºw¶+e{ø^iÖèw+-ÊW
 #profile-title: base64:VFZDIHwgTUlY
@@ -997,4 +998,3 @@ vless://35898db4-3f4f-426e-a086-3358d8d1a652@us-full.privateip.net:443?type=tcp&
 vless://4e2b1a01-d4b8-478f-9367-e402f66e7895@us2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20TCP%20@V2rayStore
 vless://93bdbc56-059a-4818-a6b8-f6229c27214e@vn-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20Vless%20TCP%20@V2rayStore
 vless://7b8f29a7-5a28-47ac-8cca-27234f048e61@tr-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Vless%20TCP%20@V2rayStore
-vless://647f1c6a-50ed-45bd-a612-c7572e0de1b1@kz-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20TCP%20@V2rayStore
