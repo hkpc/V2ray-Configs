@@ -1,4 +1,3 @@
-vless://17fd4223-dfe8-45fc-93c8-0a816f7bdefd@jp-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Vless%20TCP%20@V2rayStore
 vless://301f4485-2d56-4d78-a30d-a55ca109e5ff@fr-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20@V2rayStore
 vless://30d04308-8e1c-45d0-9b6a-f414865bafe0@fr2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20@V2rayStore
 vless://454f84df-724d-442a-a4a2-698a6d63f946@fr3-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20@V2rayStore
@@ -998,3 +997,4 @@ trojan://6d9d7c53-3dcd-43bf-b60c-cac077817077@805tw.ljydw.top:443?security=tls&s
 trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:33323?security=tls&sni=z261.hongkongnode.top#%F0%9F%87%A8%F0%9F%87%B3CN-111.47.212.119-0538
 trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:59021?security=tls&sni=x100.flybar.work#%F0%9F%87%A8%F0%9F%87%B3CN-111.47.212.119-0537
 vmess://ewogICAgImFkZCI6ICJjZG4uaW50ZXJuZXRjZG4uZ2dmZi5uZXQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJsb3NhbmdlbGVzLnVzLnBpc2Nlcy5ldS5vcmciLAogICAgImlkIjogIjVmYjI1NzU0LTEzYjYtNDE0Zi05MzQ5LTZjMWUyZTE3MzBiOCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9taWNyb3NvZnQ/ZWQ9MjA0OCIsCiAgICAicG9ydCI6IDg4ODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42NC4xNjAuMzYtMTE4NSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:21247?security=tls&sni=x91.flybar.work#%F0%9F%87%A8%F0%9F%87%B3CN-111.47.212.119-0536
