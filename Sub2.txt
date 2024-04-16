@@ -1,3 +1,5 @@
+vless://647f1c6a-50ed-45bd-a612-c7572e0de1b1@kz-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20TCP%20@V2rayStore
+vless://4a26c7e7-ea92-4259-87d6-86833e874394@uk-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20TCP%20@V2rayStore
 vless://fe6b171f-0996-4cca-89b6-8bf2b7f70cb4@de-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20@V2rayStore
 vless://94e0bd36-57bb-4d1c-8315-0840fe0d26b3@de2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20@V2rayStore
 vless://d13a1784-da0e-4038-a427-3c3ab3449cfc@au-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Vless%20TCP%20@V2rayStore
@@ -996,5 +998,3 @@ vmess://ewogICAgImFkZCI6ICJ2MnJheS5pYmdmdy50b3AiLAogICAgImFpZCI6IDAsCiAgICAiaG9z
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%F0%9F%8F%81RELAY-127.0.0.1-1166
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:20005#%F0%9F%87%A8%F0%9F%87%B3CN-120.238.122.160-1167
 vmess://ewogICAgImFkZCI6ICJ3d3cuZGFya3Jvb20ubG9sIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAid3d3LmRhcmtyb29tLmxvbCIsCiAgICAiaWQiOiAiMjI4MjZiNDQtNWMxYS00YjRiLWRiYWEtODNhMmU4YmQ5NWYwIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4yMTUuMTAzLTExNjgiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vmess://ewogICAgImFkZCI6ICJjZG5qcy5jb20iLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjUyNzAxNzk1LTNjM2ItNDZiNC1iN2NmLWM1OTc4YjNhNGNmMiIsCiAgICAibmV0IjogImdycGMiLAogICAgInBhdGgiOiAiIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjQuMTk3LjIwLTExNjkiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJjZG5qcy5jb20iCn0=
-trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.19.171.5:443?security=tls&sni=jobscareerforlawyers.com#%F0%9F%8F%81RELAY-104.19.171.5-1171
