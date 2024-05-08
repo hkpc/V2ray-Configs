@@ -1,3 +1,5 @@
+vless://b7a0cf39-99fa-47a4-8d9f-5263806e8cce@nl2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Vless%20TCP%20XTLS%20@V2rayStore
+vless://8da41d0a-0454-4ced-a7e2-4de2a3dcc525@ca-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://69a83c73-f255-44e5-a8f4-eb145f0bba48@in-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B3%20India%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://1c3f3cc3-e856-45ec-a824-a742c0bfcdcf@jp-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://f25be958-7d9d-4e4b-a3e4-d82c3b06d16a@fr-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20XTLS%20@V2rayStore
@@ -996,5 +998,3 @@ ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.83:5499#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.83:8881#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.83-3462
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:3389#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.120-3461
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.66:5600#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.66-2520
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.162.200.149:6679#%F0%9F%87%A8%F0%9F%87%A6CA-23.162.200.149-2331
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.33:8882#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.33-0509
