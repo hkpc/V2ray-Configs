@@ -1,3 +1,6 @@
+vless://5248c85d-b05a-4321-be10-1c0a435edfaf@tr-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Vless%20TCP%20XTLS%20@V2rayStore
+vless://2b7098cc-9efb-4175-80f3-801fb293b87f@kz-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20TCP%20XTLS%20@V2rayStore
+vless://2e698174-4c93-49c3-8532-df4c46800383@uk-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://0f55261b-34f5-4b99-9215-ac1405bb810d@de-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://7a24704b-5d64-48a9-94d7-726ba993d51f@de2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://f34efa20-5a51-41d9-bda5-b68ebbbfa7b0@au-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Vless%20TCP%20XTLS%20@V2rayStore
@@ -995,6 +998,3 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.225:8881#%F0%9F%87%BA%F0%9F
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.137.42:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.75.137.42-0394
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.183:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.183-3539
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@15.204.87.217:6379#%F0%9F%87%BA%F0%9F%87%B8US-15.204.87.217-2210
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.20:8881#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.20-2566
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.20:8000#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.20-2505
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.89:6379#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.89-3532
