@@ -1,3 +1,5 @@
+vless://49d99b05-0a7e-4979-9193-ae2dbfd7a225@de2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%200%20@V2rayStore
+vless://8ce67527-6c25-4165-9a83-d88ac0b87f00@jp-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20Japan%200%20@V2rayStore
 vless://40e357c2-06f4-433a-b6cc-5d5c8b487e1d@nl2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%200%20@V2rayStore
 trojan://2367db58-3d99-4640-b306-fc8644214178@us-full.privateip.net:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Trojan%20@V2rayStore
 trojan://5a92d674-308c-4d95-b283-28383e63a59b@vn-full.privateip.net:443#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20Trojan%20@V2rayStore
@@ -996,5 +998,3 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.137.42:5003#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@15.204.87.217:6379#%F0%9F%87%BA%F0%9F%87%B8US-15.204.87.217-2210
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.86.135.31:8091#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.31-3225
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.110.1.43:8118#%F0%9F%87%BA%F0%9F%87%B8US-38.110.1.43-3292
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.48.43:8090#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.43-2616
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.154.136.218:8008#%F0%9F%87%BA%F0%9F%87%B8US-23.154.136.218-3213
