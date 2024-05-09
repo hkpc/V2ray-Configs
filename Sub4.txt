@@ -1,3 +1,4 @@
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.192.145:443?security=tls&sni=jobscareerforlawyers.com#%F0%9F%8F%81RELAY-104.16.192.145-2907
 trojan://KAJtP8KcEWR3@18.194.173.181:13001?security=tls&sni=appsvs.shop#%F0%9F%87%A9%F0%9F%87%AADE-18.194.173.181-2908
 trojan://telegram-id-privatevpns@52.210.151.8:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-52.210.151.8-2909
 trojan://4aec4e7f8cf8454ea4613659822e1a61@104.17.147.8:443?security=tls&sni=jobscareerforstudent.com#%F0%9F%8F%81RELAY-104.17.147.8-2911
@@ -997,4 +998,3 @@ vmess://ewogICAgImFkZCI6ICJjZi4zNDU2NzMueHl6IiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 trojan://MyYoZhfX@36.151.195.49:45809?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.151.195.49-4294
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OThjNGFiOC02MTNmLTQ2OGYtYjNmZi1kYWY0M2M4OGFhZDc=@98899.xef9wvmj31-gc3qil6-jp02.my777999.top:38998#%F0%9F%87%A8%F0%9F%87%B3CN-61.171.51.197-4295
 ss://YWVzLTI1Ni1nY206MTI2ZDg5OTEtZmVlYy00NWI0LTgzYjctZjljNjdmODIyNzIy@shdx.myy.email:20205#%F0%9F%87%A8%F0%9F%87%B3CN-101.91.116.71-4296
-trojan://g76wex@aws-kr-seoul-1.f1cflinec.com:443?security=tls&sni=aws-kr-seoul-1.f1cflinec.com#%F0%9F%8F%81RELAY-104.21.69.52-4297

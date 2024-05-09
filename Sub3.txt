@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.47:3389#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.47-3349
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.154.136.218:7307#%F0%9F%87%BA%F0%9F%87%B8US-23.154.136.218-2327
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.207:443#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.207-3280
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.16:8119#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.16-3340
@@ -997,4 +998,3 @@ trojan://Y56CufPasov6@3.75.248.2:12993?security=tls&sni=appsvs.shop#%F0%9F%87%A9
 trojan://aCuwaH0zJP04@18.189.182.124:12983?security=tls&sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US-18.189.182.124-2903
 trojan://telegram-id-privatevpns@18.134.191.135:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-18.134.191.135-2904
 trojan://telegram-id-privatevpns@35.180.19.211:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-35.180.19.211-2905
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.192.145:443?security=tls&sni=jobscareerforlawyers.com#%F0%9F%8F%81RELAY-104.16.192.145-2907
