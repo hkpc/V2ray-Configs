@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.134.85:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-9125
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.143.66.55:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.55-9126
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.91.107.16:5600#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-9127
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.58:2376#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.58-9128
@@ -997,4 +998,3 @@ vless://Telegram-ipV2Ray-cep@185.146.173.58:80?host=15.ftp.debian.org.www.speedt
 vless://Telegram-ipV2Ray-xrs@172.66.213.5:80?host=14.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9168.Site.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @ipV2Ray | CA🇨🇦 | 0️⃣4️⃣
 vless://Telegram-ipV2Ray-vro@172.66.213.5:80?host=13.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9169.Site.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @ipV2Ray | CA🇨🇦 | 0️⃣5️⃣
 vless://Telegram-ipV2Ray-rzw@172.66.213.5:80?host=12.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9168.Site.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @ipV2Ray | CA🇨🇦 | 0️⃣6️⃣
-vless://Telegram-ipV2Ray-cdo@172.66.213.5:80?host=11.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9169.Site.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @ipV2Ray | CA🇨🇦 | 0️⃣7️⃣
