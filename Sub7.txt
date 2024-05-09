@@ -1,14 +1,3 @@
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.134.85:7001#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-9147
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@167.88.63.59:9102#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.59-9148
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.86.135.27:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.27-9151
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.107.226.146:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.146-9154
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@172.99.190.39:8009#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-9155
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.188.71:5601#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-9156
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.91.100.207:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.91.100.207-9158
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@37.120.147.230:804#%F0%9F%87%BA%F0%9F%87%B8US-37.120.147.230-9160
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFNGd5SGtLd0pHeUc=@161.97.66.81:443#%F0%9F%87%A9%F0%9F%87%AADE-161.97.66.81-9161
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.91.107.16:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-9164
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.86.135.36:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-9165
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.36:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-9166
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@172.99.190.39:8008#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-9168
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.63.82:7307#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.82-9170
@@ -998,3 +987,14 @@ vless://telegram-id-ArV2ray@benedict.ns.cloudflare.com:80?encryption=none&host=4
 vless://telegram-id-ArV2ray@benedict.ns.cloudflare.com:80?encryption=none&host=3.V2ray.speedtest.net.parspack.com.mui.ir.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.Store.&path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=&type=ws#رایگان | VLESS | @ARv2ray | CA🇨🇦 | 0️⃣7️⃣
 vless://e1db4e5d-a77a-4dcf-a7f2-d0de2bb339e5@185.146.173.185:2095?encryption=none&host=V2ray-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F&security=none&type=ws#رایگان | VLESS | @shh_proxy | SE🇸🇪 | 0️⃣1️⃣
 vless://47e2d9e8-1b84-4859-b5b6-e4770ca291cf@188.114.98.224:2095?encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F&security=none&type=ws#رایگان | VLESS | @shh_proxy | NL🇳🇱 | 0️⃣2️⃣
+vless://e60b0bcc-c25f-418f-a6a7-c2d2be0ddcc8@185.146.173.185:2095?encryption=none&host=V2ray-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F&security=none&type=ws#رایگان | VLESS | @shh_proxy | SE🇸🇪 | 0️⃣3️⃣
+vless://8ffcf717-ee7f-41f6-824a-ae5240203ad6@188.114.98.224:2095?encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F&security=none&type=ws#رایگان | VLESS | @shh_proxy | NL🇳🇱 | 0️⃣4️⃣
+vless://b273d2e3-7b60-4c41-a3e4-33b1dc6e5233@185.146.173.185:2095?encryption=none&host=V2ray-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F&security=none&type=ws#رایگان | VLESS | @shh_proxy | SE🇸🇪 | 0️⃣5️⃣
+vless://6a6ffa38-49ce-4418-ad50-6ec72976187e@188.114.98.224:2095?encryption=none&host=V2ray-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F&security=none&type=ws#رایگان | VLESS | @shh_proxy | NL🇳🇱 | 0️⃣6️⃣
+vless://20358c5b-97c9-429d-aef8-3679e86a4ad7@185.146.173.185:2095?encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F&security=none&type=ws#رایگان | VLESS | @shh_proxy | SE🇸🇪 | 0️⃣7️⃣
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.21.233.139:443?encryption=none&host=Hagh.PaGes.DEv&path=%2F%3Fed%3D2048&security=tls&sni=Hagh.PaGes.DEv&type=ws#رایگان | VLESS | @Lockey_vpn | CA🇨🇦 | 0️⃣1️⃣
+vless://ffffffff-eeae-4311-b37c-b2a67847fed2@104.21.51.208:443?encryption=none&fp=chrome&host=watashi.free.de.mnhacker.eu.org&path=lockey_vpn&security=tls&sni=watashi.free.de.mnhacker.eu.org&type=ws#رایگان | VLESS | @Lockey_vpn | CA🇨🇦 | 0️⃣2️⃣
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@188.114.99.243:443?encryption=none&host=w1.sylar8.eu.org&path=lockey_vpn&security=tls&sni=w1.sylar8.eu.org&type=ws#رایگان | VLESS | @Lockey_vpn | NL🇳🇱 | 0️⃣3️⃣
+vless://5d8569a9-a8cb-4c5e-9ea9-cc40de873a35@104.31.16.65:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=FIltEr-1tg.pagEs.DeV&path=lockey_vpn&security=tls&sni=filTer-1tg.pAges.DeV&type=ws#رایگان | VLESS | @Lockey_vpn | CA🇨🇦 | 0️⃣4️⃣
+vless://d672ec4f-afba-4f61-af09-eec872f97e99@Zula.ir:443?encryption=none&host=test39.pages.dev&path=Path%2FTelegram+%3A+LOCKEY_VPN+%2F%3Fed%3D2048&security=tls&sni=test39.pages.dev&type=ws#رایگان | VLESS | @Lockey_vpn | CA🇨🇦 | 0️⃣5️⃣
+vless://d672ec4f-afba-4f61-af09-eec872f97e99@190.93.247.155:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=test50.pages.dev&path=Path%2FTelegram%40LOCKEY_VPN%2F%3Fed%3D2048&security=tls&sni=test50.pages.dev&type=ws#رایگان | VLESS | @Lockey_vpn | CR🇨🇷 | 0️⃣6️⃣
