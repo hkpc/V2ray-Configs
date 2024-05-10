@@ -1,6 +1,3 @@
-vless://49d99b05-0a7e-4979-9193-ae2dbfd7a225@de2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20XTLS%20@V2rayStore
-vless://f446d402-0b84-4758-84df-6448a6f07039@it-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Vless%20TCP%20XTLS%20@V2rayStore
-vless://b0828e69-7ec9-473d-a89f-e46c3cdb4336@ua-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@sg3-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://455837b7-0e72-4cf5-9e88-a8e1d6731022@hk-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://3c978af6-f7c1-4857-aab1-8ae33452d49c@nl-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Vless%20TCP%20XTLS%20@V2rayStore
@@ -998,3 +995,6 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@167.88.61.235:9102#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.44:8090#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.44-2573
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8009#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.120-2525
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.225:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.225-3393
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.87:7307#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.87-3571
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.87:3389#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.87-2749
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.83:7307#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.83-3449
