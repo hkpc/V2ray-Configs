@@ -1,3 +1,8 @@
+trojan://JAZt2ViZxLXm@15.157.72.184:13001?security=tls&sni=appsvs.shop#%F0%9F%87%A8%F0%9F%87%A6CA-15.157.72.184-2861
+trojan://70eb38a6-673c-4877-bceb-dbe6369fa210@95.164.46.235:443?security=tls#%F0%9F%87%AE%F0%9F%87%B9IT-95.164.46.235-2862
+trojan://afc789c0-0b3b-11ef-9099-1239d0255272@172.67.159.13:443?security=tls&sni=fr1.test3.net#%F0%9F%8F%81RELAY-172.67.159.13-2863
+trojan://4e0f0b6d-8164-4b4b-99be-1f7ad19c7600@95.164.116.35:443?security=tls#%F0%9F%87%B9%F0%9F%87%B7TR-95.164.116.35-2864
+trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com#%F0%9F%8F%81RELAY-104.17.147.77-2865
 trojan://c55c7930-858b-45f5-9ac3-d66b805a4569@141.94.115.231:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-141.94.115.231-2866
 trojan://wkmY1R4EcP@207.246.68.67:443?security=tls&sni=z-v2-003338.kailib.com#%F0%9F%87%BA%F0%9F%87%B8US-207.246.68.67-2867
 trojan://CMLiu@47.76.32.108:2087?security=tls&sni=trojan.classelivre.eu.org#%F0%9F%87%AD%F0%9F%87%B0HK-47.76.32.108-2868
@@ -993,8 +998,3 @@ trojan://OoNop987o4en@13.125.95.227:14637?security=tls&sni=appsvs.shop#%F0%9F%87
 trojan://qobPeD89e75j@54.169.177.0:14647?security=tls&sni=appsvs.shop#%F0%9F%87%B8%F0%9F%87%ACSG-54.169.177.0-4235
 trojan://e7OYwCIDhJQV@3.0.99.154:14637?security=tls&sni=appsvs.shop#%F0%9F%87%B8%F0%9F%87%ACSG-3.0.99.154-4236
 trojan://bceTlopPXsBO@13.213.49.148:14645?security=tls&sni=appsvs.shop#%F0%9F%87%B8%F0%9F%87%ACSG-13.213.49.148-4237
-trojan://zziRBWmR7RTm@35.93.180.238:14645?security=tls&sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US-35.93.180.238-4243
-trojan://BqpVbR5Jn6Ft@54.244.56.171:14632?security=tls&sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US-54.244.56.171-4245
-trojan://g2t03GzQ%28Zfb@34.219.229.142:14641?security=tls&sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US-34.219.229.142-4246
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@198.57.27.225:443#%F0%9F%87%A8%F0%9F%87%A6CA-198.57.27.225-0000
-ss://YWVzLTEyOC1nY206YS13eW00b3ZZNFl3@8.210.229.184:443#%F0%9F%87%AD%F0%9F%87%B0HK-8.210.229.184-4248
