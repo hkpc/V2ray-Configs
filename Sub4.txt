@@ -1,4 +1,3 @@
-trojan://afc789c0-0b3b-11ef-9099-1239d0255272@172.67.159.13:443?security=tls&sni=fr1.test3.net#%F0%9F%8F%81RELAY-172.67.159.13-2863
 trojan://4e0f0b6d-8164-4b4b-99be-1f7ad19c7600@95.164.116.35:443?security=tls#%F0%9F%87%B9%F0%9F%87%B7TR-95.164.116.35-2864
 trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com#%F0%9F%8F%81RELAY-104.17.147.77-2865
 trojan://c55c7930-858b-45f5-9ac3-d66b805a4569@141.94.115.231:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-141.94.115.231-2866
@@ -998,3 +997,4 @@ trojan://e7OYwCIDhJQV@3.0.99.154:14637?security=tls&sni=appsvs.shop#%F0%9F%87%B8
 trojan://bceTlopPXsBO@13.213.49.148:14645?security=tls&sni=appsvs.shop#%F0%9F%87%B8%F0%9F%87%ACSG-13.213.49.148-4237
 trojan://zziRBWmR7RTm@35.93.180.238:14645?security=tls&sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US-35.93.180.238-4243
 trojan://BqpVbR5Jn6Ft@54.244.56.171:14632?security=tls&sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US-54.244.56.171-4245
+trojan://g2t03GzQ%28Zfb@34.219.229.142:14641?security=tls&sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US-34.219.229.142-4246
