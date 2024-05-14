@@ -1,3 +1,4 @@
+vless://a858f540-242f-4aa1-a514-2d57877866ee@sg2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20TCP%20@V2rayStore
 vless://4ebc6b52-af2f-4b10-ae8b-7d0b6d5e529f@sg3-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20TCP%20@V2rayStore
 vless://e43b0a3f-f34d-4700-9787-28ae50f6d093@id-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Vless%20TCP%20@V2rayStore
 vless://5e96b77f-b64e-46bf-9377-5ff0eea3d5bb@hk-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Vless%20TCP%20@V2rayStore
@@ -997,4 +998,3 @@ ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.29:5499#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@167.88.61.235:8882#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.235-2220
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2375#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-2267
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.120:6379#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.120-2294
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.225:9090#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.225-2671
