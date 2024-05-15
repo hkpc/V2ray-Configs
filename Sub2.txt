@@ -1,3 +1,5 @@
+vless://454f84df-724d-442a-a4a2-698a6d63f946@fr3-full.privateip.net:443?type=tcp&encryption=none&security=xtls&path=%2f&headerType=none&flow=xtls-rprx-direct#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20XTLS%20@V2rayStore
+vless://319ec53d-fdb6-41b5-b64f-f7f43c3f92c7@us-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%200%20@V2rayStore
 vless://07fa5400-554e-43fb-a78b-d51209a1693f@de2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%200%20@V2rayStore
 vless://2e066f54-8f75-43a8-ad2b-c10b59fe5f9b@jp-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20Japan%200%20@V2rayStore
 vless://90fb9114-e01b-49fe-b24c-7a2b3884baca@nl2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%200%20@V2rayStore
@@ -996,5 +998,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:5000#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.87:8000#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.87-2469
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.225:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.225-2702
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.86.135.141:8882#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.141-3149
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.83:5498#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.83-3472
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.83:3389#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.83-3474
