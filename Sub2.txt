@@ -1,3 +1,8 @@
+vless://c3ecc67c-997a-4588-a82c-65e5d03deafc@de-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20XTLS%20@V2rayStore
+vless://07fa5400-554e-43fb-a78b-d51209a1693f@de2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20XTLS%20@V2rayStore
+vless://19251700-f3de-4a4d-a78c-c862f54b2522@it-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Vless%20TCP%20XTLS%20@V2rayStore
+vless://bb8b5577-1d98-4436-a861-07ac1703ad89@ua-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Vless%20TCP%20XTLS%20@V2rayStore
+vless://978e6fa3-4cc2-47fc-8746-586e5874e713@sg-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://b510239f-d6ca-40e9-aa5e-63d0a45e5a74@sg2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@sg3-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://dcd9ad61-9acc-400a-9154-583e17acae2d@id-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Vless%20TCP%20XTLS%20@V2rayStore
@@ -993,8 +998,3 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.77.53.200:5004#%F0%9F%87%B5%F0%9F%8
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9101#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2425
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:8080#%F0%9F%87%AB%F0%9F%87%B7FR-54.36.174.181-2320
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8009#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2596
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@54.36.174.181:6379#%F0%9F%87%AB%F0%9F%87%B7FR-54.36.174.181-2595
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@54.36.174.181:8009#%F0%9F%87%AB%F0%9F%87%B7FR-54.36.174.181-2206
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.36.174.181:8090#%F0%9F%87%AB%F0%9F%87%B7FR-54.36.174.181-2678
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@51.77.53.200:8091#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2200
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:8888#%F0%9F%87%AB%F0%9F%87%B7FR-54.36.174.181-2301
