@@ -1,3 +1,9 @@
+vless://e478b7ee-8826-4b5f-b133-980a5b68876b@tr-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Vless%20TCP%20XTLS%20@V2rayStore
+vless://1f61d666-59d2-42cb-b390-3ebaf6c51839@kz-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20TCP%20XTLS%20@V2rayStore
+vless://2d13f516-a9bc-42c0-ab12-b17c130f3440@uk-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20TCP%20XTLS%20@V2rayStore
+vless://36112366-6c82-43ce-92b0-1a442a1a7156@uk2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20TCP%20XTLS%20@V2rayStore
+vless://c3ecc67c-997a-4588-a82c-65e5d03deafc@de-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20XTLS%20@V2rayStore
+vless://07fa5400-554e-43fb-a78b-d51209a1693f@de2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://8bd32101-309e-43ce-8831-e663b334b8b7@au-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://19251700-f3de-4a4d-a78c-c862f54b2522@it-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://bb8b5577-1d98-4436-a861-07ac1703ad89@ua-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Vless%20TCP%20XTLS%20@V2rayStore
@@ -992,9 +998,3 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.183:443#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.89:7002#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.89-3413
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.87:7307#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.87-3536
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.29:7001#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.29-3503
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.97-3207
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:5601#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.120-3491
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.120:6697#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.120-3443
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:5000#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.89-2654
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.89:8881#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.89-3405
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@169.197.142.216:7002#%F0%9F%87%BA%F0%9F%87%B8US-169.197.142.216-2480
