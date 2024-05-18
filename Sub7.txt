@@ -1,3 +1,6 @@
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.36:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-9284
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.85:5001#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-9285
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.107.226.48:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.48-9286
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.48.7:8091#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.7-9287
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.64.138.145:5001#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-9288
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.74:5003#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.74-9289
@@ -995,6 +998,3 @@ vless://966838ed-162f-4438-8acc-3942e6193405@chat.openai.com:8080?host=de.%E8%BF
 vless://966838ed-162f-4438-8acc-3942e6193405@www.speedtest.net:8080?host=cloudflare.cdn.discord.telegram.zula.ir.fars.ir.iranserver.bazaar.ir.dontbow.store.&path=%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray&security=none&type=ws#رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣5️⃣
 vless://b0df4fb0-1977-4c3d-bea7-449ad04d5060@discord.com:8080?host=de2.%E8%BF%87%E6%BB%A4%E5%99%A8.store.&path=%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray&security=none&type=ws#رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣6️⃣
 vless://b0df4fb0-1977-4c3d-bea7-449ad04d5060@zula.ir:8080?host=cloudflare.cdn.discord.telegram.zula.ir.fars.ir.iranserver.bazaar.ir.nokia.apple.google.dontbow.store.&path=%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray&security=none&type=ws#رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣7️⃣
-vless://9d637fee-4d70-4e76-a3a2-a7e31fc39b6e@slotwolf1.com.:2095?encryption=none&host=aa.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&type=ws#رایگان | VLESS | @V2pedia | CW🇨🇼 | 0️⃣1️⃣
-vless://e8adc78e-fbee-4b8d-8e0b-6606892b48db@www.zetcasino6.com.:80?encryption=none&host=tj.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&type=ws#رایگان | VLESS | @V2pedia | NL🇳🇱 | 0️⃣2️⃣
-vless://e2e155ff-7b00-4db5-81cf-aae34ef2d558@blockchain-explorer.win7bitcasino1.com.:2095?encryption=none&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-TEL-ZEDMODEON&security=none&type=ws#رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣3️⃣
