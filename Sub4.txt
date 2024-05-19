@@ -1,3 +1,6 @@
+trojan://CMLiu@185.148.15.219:29293?security=tls&sni=trojan.classelivre.eu.org#%F0%9F%87%BA%F0%9F%87%B8US-185.148.15.219-3017
+trojan://c55c7930-858b-45f5-9ac3-d66b805a4569@fr-full.privateip.net:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-141.94.115.231-3018
+trojan://wkbrIFBszD@146.190.97.166:443?security=tls&sni=aka.ms#%F0%9F%87%B8%F0%9F%87%ACSG-146.190.97.166-3019
 trojan://afc789c0-0b3b-11ef-9099-1239d0255272@51.210.182.170:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%F0%9F%87%AB%F0%9F%87%B7FR-51.210.182.170-3020
 trojan://765409b4-3e9b-4d1d-bcbb-c6b65956b689@173.245.58.100:443?security=tls&sni=de1.trojanvpn.de#%F0%9F%8F%81RELAY-173.245.58.100-3021
 trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.16.159.2:443?security=tls&sni=jobscareerforstudent.com#%F0%9F%8F%81RELAY-104.16.159.2-3022
@@ -995,6 +998,3 @@ vmess://ewogICAgImFkZCI6ICJzazEtdm1lc3Muc3NobWF4Lnh5eiIsCiAgICAiYWlkIjogMCwKICAg
 trojan://telegram-id-directvpn@52.59.62.136:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-52.59.62.136-0115
 trojan://3febb05ea76a940f@5.44.249.52:3306?security=tls&sni=n2.gladns.com#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.52-0113
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p227.panda004.net:49032#%F0%9F%87%B0%F0%9F%87%B7KR-125.141.26.7-4393
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.231.229.48:443#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.229.48-4394
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.112.189.248:443#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.189.248-4396
-vmess://ewogICAgImFkZCI6ICI0My4xMjkuMjIxLjExMCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImpwLnNheXVyaS5jZiIsCiAgICAiaWQiOiAiMWFiMmJhMmMtMWI2ZS00MWEyLWUwM2YtZGJmNzVkYzNmNzgyIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2ZyZWUiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HrfCfh7BISy00My4xMjkuMjIxLjExMC0wMDEzIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=

@@ -1,3 +1,6 @@
+trojan://6c8012af-5f91-4f59-af10-a3d8a1b587cc@in-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%B3%20India%20Trojan%20@V2rayStore
+trojan://f927f836-2e1a-402a-b756-b079d921ad6d@jp-full.privateip.net:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Trojan%20@V2rayStore
+trojan://da2416a4-343d-4936-99f1-9aea94569e9e@fr-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
 trojan://e9ce6572-4b15-4b3d-b1e9-67fec8f700ce@fr2-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
 trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@fr3-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
 vless://319ec53d-fdb6-41b5-b64f-f7f43c3f92c7@us-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
@@ -995,6 +998,3 @@ ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.36.174.181:7307#%F0%9F%87%AB%F0%9F%
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@54.36.174.181:8008#%F0%9F%87%AB%F0%9F%87%B7FR-54.36.174.181-2377
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5004#%F0%9F%87%AB%F0%9F%87%B7FR-54.36.174.181-2551
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8009#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-1002
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:5500#%F0%9F%87%AB%F0%9F%87%B7FR-54.36.174.181-2270
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3306#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2457
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6679#%F0%9F%87%AB%F0%9F%87%B7FR-54.36.174.181-2771
