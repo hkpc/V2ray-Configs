@@ -1,3 +1,5 @@
+vless://1f61d666-59d2-42cb-b390-3ebaf6c51839@kz-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20WS%20@V2rayStore
+vless://2d13f516-a9bc-42c0-ab12-b17c130f3440@uk-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20WS%20@V2rayStore
 vless://36112366-6c82-43ce-92b0-1a442a1a7156@uk2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20WS%20@V2rayStore
 vless://c3ecc67c-997a-4588-a82c-65e5d03deafc@de-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20WS%20@V2rayStore
 vless://07fa5400-554e-43fb-a78b-d51209a1693f@de2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20WS%20@V2rayStore
@@ -996,5 +998,3 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7002#%F0%9F%87%AB%F0%9F%
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:5500#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2466
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5000#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2452
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:8080#%F0%9F%87%AB%F0%9F%87%B7FR-54.36.174.181-2124
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6697#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2033
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@51.77.53.200:8091#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2004
