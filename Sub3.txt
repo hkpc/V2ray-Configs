@@ -1,4 +1,3 @@
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.29:7307#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.29-2636
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7002#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-2113
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:6379#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-1745
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@217.182.198.219:4444#%F0%9F%87%A9%F0%9F%87%AADE-217.182.198.219-3570
@@ -998,3 +997,4 @@ trojan://telegram-id-privatevpns@52.29.5.123:22222?security=tls&sni=trojan.burge
 trojan://dba20dcb635e430fa4d3bfc303a149d2@104.17.61.2:443?security=tls&sni=jobscareerforstudent.com#%F0%9F%8F%81RELAY-104.17.61.2-2957
 trojan://CMLiu@45.59.185.97:49555?security=tls&sni=trojan.classelivre.eu.org#%F0%9F%87%BA%F0%9F%87%B8US-45.59.185.97-2958
 trojan://cfcbb310-0b3b-11ef-bac0-1239d0255272@51.38.65.155:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%F0%9F%87%AC%F0%9F%87%A7GB-51.38.65.155-2959
+trojan://4c4dfa50-e321-11ee-9b28-1239d0255272@144.217.81.44:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%F0%9F%87%A8%F0%9F%87%A6CA-144.217.81.44-2960
