@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.19:5004#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.19-3495
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@23.92.127.134:989#%F0%9F%87%AE%F0%9F%87%AAIE-23.92.127.134-9760
 trojan://xxoo@138.197.5.103:443?security=tls&sni=us.blazeppn.info#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-0290
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.123.101.241:989#%F0%9F%87%B9%F0%9F%87%B7TR-185.123.101.241-3721
@@ -997,4 +998,3 @@ trojan://DVM7nfMTepvy@3.68.198.203:13006?security=tls&sni=appsvs.shop#%F0%9F%87%
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&sni=jobscareerforlawyers.com#%F0%9F%8F%81RELAY-198.41.220.12-3039
 trojan://CMLiu@123.58.212.186:35123?security=tls&sni=trojan.classelivre.eu.org#%F0%9F%87%AD%F0%9F%87%B0HK-123.58.212.186-3042
 trojan://CMLiu@185.200.64.87:20111?security=tls&sni=trojan.classelivre.eu.org#%F0%9F%87%AF%F0%9F%87%B5JP-185.200.64.87-3043
-trojan://CMLiu@47.237.8.82:2053?security=tls&sni=trojan.classelivre.eu.org#%F0%9F%87%B8%F0%9F%87%ACSG-47.237.8.82-3044
