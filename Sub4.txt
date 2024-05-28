@@ -1,3 +1,5 @@
+trojan://CMLiu@123.58.212.186:35123?security=tls&sni=trojan.classelivre.eu.org#%F0%9F%87%AD%F0%9F%87%B0HK-123.58.212.186-3042
+trojan://CMLiu@185.200.64.87:20111?security=tls&sni=trojan.classelivre.eu.org#%F0%9F%87%AF%F0%9F%87%B5JP-185.200.64.87-3043
 trojan://CMLiu@47.237.8.82:2053?security=tls&sni=trojan.classelivre.eu.org#%F0%9F%87%B8%F0%9F%87%ACSG-47.237.8.82-3044
 trojan://a36dfa0e-5a34-4e77-8513-87350f38e0a6@104.16.34.1:443?security=tls&sni=sglmt.cfyun01.sbs#%F0%9F%8F%81RELAY-104.16.34.1-3045
 trojan://3a8dd156-5fc9-43b6-91c1-dff86d8a29fc@172.67.191.234:443?security=tls&sni=nl1.tRojANVpN.xYZ#%F0%9F%8F%81RELAY-172.67.191.234-3046
@@ -996,5 +998,3 @@ vmess://ewogICAgImFkZCI6ICIxMzkuOTkuNjEuMTU0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 trojan://d1478689-439c-4590-b7ce-36e786a02dc3@youtube-bai-piao-wang-zhe-usa.98848.xyz:443?security=tls&sni=youtube-bai-piao-wang-zhe-usa.98848.xyz#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.213-4538
 trojan://d1478689-439c-4590-b7ce-36e786a02dc3@107.181.161.163:443?security=tls&sni=107.181.161.163#%F0%9F%87%BA%F0%9F%87%B8US-107.181.161.163-4539
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.91.102.30:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.91.102.30-4547
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@72.140.224.195:800#%F0%9F%87%A8%F0%9F%87%A6CA-72.140.224.195-4554
-vmess://ewogICAgImFkZCI6ICIxMDkuMTIzLjIzNy40MSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDNhNzczNjAtODA4ZC0xMWVkLWI3MzYtMjA1YzZkNWY1ZDc4IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh7jwn4esU0ctMTA5LjEyMy4yMzcuNDEtNDU2NCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
