@@ -1,3 +1,7 @@
+vless://4d6fa72f-62cf-4b4a-92b1-a7dbf354e4c6@de2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20WS%20@V2rayStore
+vless://1b470f0c-4c0e-4eab-80e7-b4810b85ac8e@au-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Vless%20WS%20@V2rayStore
+vless://79126b5a-7e08-4e64-8f7a-7d59ef330669@it-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Vless%20WS%20@V2rayStore
+vless://bc14b176-c672-4f20-b73c-9fb882224ded@ua-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Vless%20WS%20@V2rayStore
 vless://1ac0b613-ea29-4a6d-96d0-e5d59fdf4078@es-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Vless%20WS%20@V2rayStore
 vless://41632df1-92bc-40af-8382-5d46f7725a9a@sg-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
 vless://3a545c46-3e0b-40b8-bacc-dbebf79f23f1@sg2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
@@ -994,7 +998,3 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.81:7001#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:3389#%F0%9F%87%A9%F0%9F%87%AADE-217.182.198.219-2410
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.29:6697#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.29-2379
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.29:8888#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.29-3328
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.29:5499#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.29-3358
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.83:8118#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.83-1985
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8119#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-1986
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:8888#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-1113
