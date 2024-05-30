@@ -1,3 +1,4 @@
+vless://cfc2f38a-5402-42d8-ba22-cd6111b0d04e@de-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20WS%20@V2rayStore
 vless://4d6fa72f-62cf-4b4a-92b1-a7dbf354e4c6@de2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20WS%20@V2rayStore
 vless://1b470f0c-4c0e-4eab-80e7-b4810b85ac8e@au-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Vless%20WS%20@V2rayStore
 vless://79126b5a-7e08-4e64-8f7a-7d59ef330669@it-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Vless%20WS%20@V2rayStore
@@ -997,4 +998,3 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2376#%F0%9F%87%A9%F0%9
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.81:7001#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.81-2085
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:3389#%F0%9F%87%A9%F0%9F%87%AADE-217.182.198.219-2410
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.29:6697#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.29-2379
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.29:8888#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.29-3328
