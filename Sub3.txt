@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8008#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2219
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:3306#%F0%9F%87%AB%F0%9F%87%B7FR-54.36.174.181-2223
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7306#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2323
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:3389#%F0%9F%87%AB%F0%9F%87%B7FR-54.36.174.181-2042
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5001#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-0323
@@ -996,5 +998,3 @@ trojan://telegram-id-directvpn@51.44.37.70:22222?security=tls&sni=trojan.burgeri
 trojan://CMLiu@140.238.13.96:443?security=tls&sni=trojan.classelivre.eu.org#%F0%9F%87%B0%F0%9F%87%B7KR-140.238.13.96-2884
 trojan://DVM7nfMTepvy@3.68.198.203:13006?security=tls&sni=appsvs.shop#%F0%9F%87%A9%F0%9F%87%AADE-3.68.198.203-2885
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&sni=jobscareerforlawyers.com#%F0%9F%8F%81RELAY-198.41.220.12-2886
-trojan://CMLiu@123.58.212.186:35123?security=tls&sni=trojan.classelivre.eu.org#%F0%9F%87%AD%F0%9F%87%B0HK-123.58.212.186-2889
-trojan://CMLiu@185.200.64.87:20111?security=tls&sni=trojan.classelivre.eu.org#%F0%9F%87%AF%F0%9F%87%B5JP-185.200.64.87-2890
