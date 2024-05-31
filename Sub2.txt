@@ -1,3 +1,5 @@
+vless://79126b5a-7e08-4e64-8f7a-7d59ef330669@it-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Vless%20WS%20@V2rayStore
+vless://bc14b176-c672-4f20-b73c-9fb882224ded@ua-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Vless%20WS%20@V2rayStore
 vless://1ac0b613-ea29-4a6d-96d0-e5d59fdf4078@es-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Vless%20WS%20@V2rayStore
 vless://41632df1-92bc-40af-8382-5d46f7725a9a@sg-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
 vless://3a545c46-3e0b-40b8-bacc-dbebf79f23f1@sg2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
@@ -996,5 +998,3 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6679#%F0%9F%87%AB%F0%9F%
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.36.174.181:8119#%F0%9F%87%AB%F0%9F%87%B7FR-54.36.174.181-2469
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.36.174.181:7306#%F0%9F%87%AB%F0%9F%87%B7FR-54.36.174.181-2141
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.36.174.181:8090#%F0%9F%87%AB%F0%9F%87%B7FR-54.36.174.181-2665
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:5500#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-0846
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8008#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-1152
