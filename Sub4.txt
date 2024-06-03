@@ -1,3 +1,4 @@
+trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@uk.liangyuandian.top:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-40.83.126.183-3484
 trojan://0cc6b4268dea0ba8@60.249.3.231:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.231-3486
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.232.239.43-3489
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@169.197.142.48:8008#%F0%9F%87%BA%F0%9F%87%B8US-169.197.142.48-3495
@@ -997,4 +998,3 @@ trojan://192a5fc9-2baa-4043-8655-d840d370cb86@jp.liangyuandian.top:443?security=
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@jp.iamnotagoodman.com:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-40.115.249.143-6585
 trojan://iyinglong@13.213.69.245:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.213.69.245-6586
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@169.197.142.187:8882#%F0%9F%87%BA%F0%9F%87%B8US-169.197.142.187-6587
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@169.197.142.187:5003#%F0%9F%87%BA%F0%9F%87%B8US-169.197.142.187-6588
