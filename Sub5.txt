@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@172.99.190.7:7306#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.7-6504
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.190.87:5000#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.87-6505
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.190.87:3389#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.87-6506
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@172.99.190.149:9101#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.149-6507
@@ -997,4 +998,3 @@ trojan://4d706727-996f-4427-930d-60f3bd414cf9@cnamemt.ciscocdn1.live:443?securit
 trojan://0ad5e311-7189-4124-ac8f-f828b681f10e@cnamemt.cdncisco.org:443?security=tls&sni=c5mt.cdncisco.org&type=ws&path=/5CSwsJSwLmxCxOCSBhOZubb&Host=c5mt.cdncisco.org#%F0%9F%8F%81RELAY-104.21.60.120-8002
 trojan://4d706727-996f-4427-930d-60f3bd414cf9@cnamemk.ciscocdn1.live:443?security=tls&sni=c2mk.ciscocdn1.live&type=ws&path=/rDCYQta83d0oPABKBhcIX&Host=c2mk.ciscocdn1.live#%F0%9F%87%BA%F0%9F%87%B8US-54.157.24.8-8003
 trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@cnamemc.ciscocdn1.live:443?security=tls&sni=c3mc.ciscocdn1.live&type=ws&path=/ywQ9KSLI4ZBm9wOAXUaN&Host=c3mc.ciscocdn1.live#%F0%9F%87%BA%F0%9F%87%B8US-54.157.24.8-8006
-trojan://0ad5e311-7189-4124-ac8f-f828b681f10e@cnamemc.cdncisco.org:443?security=tls&sni=c5mc.cdncisco.org&type=ws&path=/5CSwsJSwLmxCxOCSBhOZubb&Host=c5mc.cdncisco.org#%F0%9F%8F%81RELAY-172.67.196.38-8007
