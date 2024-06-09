@@ -1,8 +1,3 @@
-vless://08ae7b7c-0527-4dca-b332-9dbff3db1f63@hk-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Vless%20WS%20@V2rayStore
-vless://eb0a9882-61ae-40ae-ae5a-b42771fbf65a@nl-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Vless%20WS%20@V2rayStore
-vless://946c0c30-1d27-4fbe-ad52-027921a8c2bc@nl2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Vless%20WS%20@V2rayStore
-vless://314c294f-31b0-4714-a58b-eb613ed49542@ca-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vless%20WS%20@V2rayStore
-vless://7ac33d15-d4a3-4cad-8c83-fe916f0eaf3c@in-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AE%F0%9F%87%B3%20India%20Vless%20WS%20@V2rayStore
 vless://124fe4ff-0ee4-4189-bd99-ed1a317b42dd@jp-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Vless%20WS%20@V2rayStore
 vless://d8d9a946-c231-426a-8170-069cc2f0df2f@fr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20WS%20@V2rayStore
 vless://dbaa28cb-00a7-436b-b33c-2500097c009e@fr2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20WS%20@V2rayStore
@@ -998,3 +993,8 @@ trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.210.85.222:2087?security=tls&sni
 trojan://0fd9b883-0551-4ed1-b978-528183b459a2@47.243.18.199:2053?security=tls&sni=mfjd.591haoka.com&type=ws&path=/?ed=2560&proxyIP=proxyip.hk.fxxk.dedyn.io&Host=mfjd.591haoka.com#%F0%9F%87%AD%F0%9F%87%B0HK-47.243.18.199-1320
 trojan://0fd9b883-0551-4ed1-b978-528183b459a2@47.242.183.7:2053?security=tls&sni=mfjd.591haoka.com&type=ws&path=/?ed=2560&proxyIP=proxyip.hk.fxxk.dedyn.io&Host=mfjd.591haoka.com#%F0%9F%87%AD%F0%9F%87%B0HK-47.242.183.7-1321
 trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.218.65.171:2096?security=tls&sni=mfjd.591haoka.com&type=ws&path=/?ed=2560&proxyIP=proxyip.hk.fxxk.dedyn.io&Host=mfjd.591haoka.com#%F0%9F%87%AD%F0%9F%87%B0HK-8.218.65.171-1322
+trojan://0fd9b883-0551-4ed1-b978-528183b459a2@47.243.26.83:2083?security=tls&sni=mfjd.591haoka.com&type=ws&path=/?ed=2560&proxyIP=proxyip.hk.fxxk.dedyn.io&Host=mfjd.591haoka.com#%F0%9F%87%AD%F0%9F%87%B0HK-47.243.26.83-1323
+trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.217.232.246:2053?security=tls&sni=mfjd.591haoka.com&type=ws&path=/?ed=2560&proxyIP=proxyip.hk.fxxk.dedyn.io&Host=mfjd.591haoka.com#%F0%9F%87%AD%F0%9F%87%B0HK-8.217.232.246-1324
+trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.218.98.75:2053?security=tls&sni=mfjd.591haoka.com&type=ws&path=/?ed=2560&proxyIP=proxyip.hk.fxxk.dedyn.io&Host=mfjd.591haoka.com#%F0%9F%87%AD%F0%9F%87%B0HK-8.218.98.75-1325
+trojan://0fd9b883-0551-4ed1-b978-528183b459a2@47.243.18.199:2083?security=tls&sni=mfjd.591haoka.com&type=ws&path=/?ed=2560&proxyIP=proxyip.hk.fxxk.dedyn.io&Host=mfjd.591haoka.com#%F0%9F%87%AD%F0%9F%87%B0HK-47.243.18.199-1326
+trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.217.154.218:2087?security=tls&sni=mfjd.591haoka.com&type=ws&path=/?ed=2560&proxyIP=proxyip.hk.fxxk.dedyn.io&Host=mfjd.591haoka.com#%F0%9F%87%AD%F0%9F%87%B0HK-8.217.154.218-1327
