@@ -1,3 +1,13 @@
+trojan://d0a9ccc6-9ecd-40a3-8833-d2509b2759a8@sg-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://0131887e-b136-4334-8716-98f9c450a4af@sg2-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@sg3-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://b48b4d1b-9c5a-4c9d-8297-251bae2a23e6@id-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Trojan%20@V2rayStore
+trojan://49b8914b-0683-44b2-90df-8a89cb205d9b@hk-full.privateip.net:443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Trojan%20@V2rayStore
+trojan://0d0addf9-8579-445c-b519-00a339a3f0c0@nl-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Trojan%20@V2rayStore
+trojan://f910b595-d86d-42c8-92e1-f72f6b435664@nl2-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Trojan%20@V2rayStore
+trojan://99c63d3a-4499-4a5b-aad6-826a6851f304@ca-full.privateip.net:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Trojan%20@V2rayStore
+trojan://47824654-0a19-45ae-9f13-0c2b42ce911f@in-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%B3%20India%20Trojan%20@V2rayStore
+trojan://52fa6c8f-f9bc-4c08-8c21-3c231b9f1ce6@jp-full.privateip.net:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Trojan%20@V2rayStore
 trojan://dbddd09b-7b03-4f7b-927c-8d4c0ad3f4f1@fr-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
 trojan://7d515842-10b3-4c70-994e-89168f5d0a9b@fr2-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
 trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@fr3-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
@@ -988,13 +998,3 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.246:8443?security=tls&sn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.166:805#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.166-0288
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.115:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&path=/?ed=2048&Host=tjjd.yzyx1.v6.army#%F0%9F%8F%81RELAY-104.19.53.115-1312
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.164:807#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.164-0287
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.126:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&path=/?ed=2048&Host=tjjd.yzyx1.v6.army#%F0%9F%8F%81RELAY-104.19.53.126-1314
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.16:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&path=/?ed=2048&Host=tjjd.yzyx1.v6.army#%F0%9F%8F%81RELAY-104.19.52.16-1315
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.166:802#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.166-0286
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.138:807#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.138-0285
-trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.210.43.213:8443?security=tls&sni=mfjd.591haoka.com&type=ws&path=/?ed=2560&proxyIP=proxyip.hk.fxxk.dedyn.io&Host=mfjd.591haoka.com#%F0%9F%87%AD%F0%9F%87%B0HK-8.210.43.213-1318
-trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.210.85.222:2087?security=tls&sni=mfjd.591haoka.com&type=ws&path=/?ed=2560&proxyIP=proxyip.hk.fxxk.dedyn.io&Host=mfjd.591haoka.com#%F0%9F%87%AD%F0%9F%87%B0HK-8.210.85.222-1319
-trojan://0fd9b883-0551-4ed1-b978-528183b459a2@47.242.183.7:2053?security=tls&sni=mfjd.591haoka.com&type=ws&path=/?ed=2560&proxyIP=proxyip.hk.fxxk.dedyn.io&Host=mfjd.591haoka.com#%F0%9F%87%AD%F0%9F%87%B0HK-47.242.183.7-1320
-trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.218.65.171:2096?security=tls&sni=mfjd.591haoka.com&type=ws&path=/?ed=2560&proxyIP=proxyip.hk.fxxk.dedyn.io&Host=mfjd.591haoka.com#%F0%9F%87%AD%F0%9F%87%B0HK-8.218.65.171-1321
-trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.218.98.75:2053?security=tls&sni=mfjd.591haoka.com&type=ws&path=/?ed=2560&proxyIP=proxyip.hk.fxxk.dedyn.io&Host=mfjd.591haoka.com#%F0%9F%87%AD%F0%9F%87%B0HK-8.218.98.75-1322
-trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.217.154.218:2087?security=tls&sni=mfjd.591haoka.com&type=ws&path=/?ed=2560&proxyIP=proxyip.hk.fxxk.dedyn.io&Host=mfjd.591haoka.com#%F0%9F%87%AD%F0%9F%87%B0HK-8.217.154.218-1323
