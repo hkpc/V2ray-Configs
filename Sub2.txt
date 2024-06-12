@@ -1,3 +1,4 @@
+trojan://8127b541-aa5d-4340-a945-df42d75b860c@de2-full.privateip.net:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Trojan%20@V2rayStore
 trojan://e0210d0d-0546-46b1-a5b6-34653255b799@au-full.privateip.net:443#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Trojan%20@V2rayStore
 trojan://b4c35226-f245-4123-8c49-cbf02dca0d50@it-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Trojan%20@V2rayStore
 trojan://9419d0ab-49dc-4df8-af4f-66290e03b7ec@ua-full.privateip.net:443#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Trojan%20@V2rayStore
@@ -997,4 +998,3 @@ trojan://NISHIKUITAN222@8.219.194.170:8443?security=tls&sni=t010.ylks.link#%F0%9
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.230:2096?security=tls&sni=tjjd.yzyx1.v6.army#%F0%9F%8F%81RELAY-104.19.52.230-1363
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.232:2083?security=tls&sni=tjjd.yzyx1.v6.army#%F0%9F%8F%81RELAY-104.19.52.232-1364
 trojan://NISHIKUITAN222@8.219.142.191:8443?security=tls&sni=t010.ylks.link#%F0%9F%87%B8%F0%9F%87%ACSG-8.219.142.191-1365
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.66:2083?security=tls&sni=tjjd.yzyx1.v6.army#%F0%9F%8F%81RELAY-104.19.52.66-1366
