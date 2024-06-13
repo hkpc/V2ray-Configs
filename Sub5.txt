@@ -1,3 +1,4 @@
+trojan://973ef350-f6a5-11ec-9274-1239d0255272@trojan2.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.185.211-6558
 trojan://iyinglong@18.140.67.76:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.140.67.76-6559
 trojan://71086710-33eb-11ed-adce-1239d0255272@sg1-trojan.bonds.id:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.253.24.212-6561
 trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.177.105-6563
@@ -997,4 +998,3 @@ vmess://ewogICAgImFkZCI6ICJpbjgudWxpZmVhaS5jb20iLAogICAgImFpZCI6IDAsCiAgICAiaG9z
 vmess://ewogICAgImFkZCI6ICJpbjgudWxpZmVhaS5jb20iLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJpbjgudWxpZmVhaS5jb20iLAogICAgImlkIjogIjdhOTU4YmVjLTczNWQtNDhkZC05NTMxLTMwN2FiZGIxZjdiMyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9zd29vbGUiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HrvCfh7NJTi0xNDkuMTI5LjEzOC4xMTctODAyNyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 trojan://telegram-id-directvpn@3.22.237.121:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-3.22.237.121-0058
 trojan://f85e2ad7-3e26-4589-b478-b0b15b9b5907@104.21.20.148:2087?security=tls&sni=us1.trojanvpn.de&type=grpc&serviceName=grpc#%F0%9F%8F%81RELAY-104.21.20.148-0057
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMlk1WQ==@fr01.proxysocks.xyz:8388#%F0%9F%87%AB%F0%9F%87%B7FR-141.95.160.152-8056
