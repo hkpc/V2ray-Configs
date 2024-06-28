@@ -1,8 +1,3 @@
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.99.188.71:7001#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7818
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.107.226.132:5003#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.132-7819
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.91.100.27:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.91.100.27-7821
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@167.88.63.59:9101#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.59-7823
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.135.123:8118#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.123-7824
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@142.202.48.83:7001#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.83-7826
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.134.85:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-7828
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.143.66.55:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.55-7829
@@ -998,3 +993,8 @@ vmess://eyJhZGQiOiIxMDQuMjEuODMuMTA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiJ6dWxhLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJqYWhma2poYS5jZmQiLCJpZCI6Ijk1MGRiNmFhLTQ5MjYtNDYxNi04MTZlLWVjMDMxMmRjYjg3YiIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJqYWhma2poYS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NiB8IFZNRVNTIHwgQFJPTUFYX1ZQTiB8IFVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgMFx1ZmUwZlx1MjBlMzdcdWZlMGZcdTIwZTMifQ==
 vless://JOIN--ELiV2ray@tg.ELiV2ray.io:80?host=ELi.elmahstyle.ir&path=%2F%40ELiV2ray-%40ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&security=none&type=ws#رایگان | VLESS | @EliV2ray | SE🇸🇪 | 0️⃣1️⃣
 vless://--JOIN--ELiV2ray--@188.114.96.3:80?encryption=none&host=ELi.V2ray.motorcycles&path=%2F%40ELiV2ray-%40ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&security=none&type=ws#رایگان | VLESS | @EliV2ray | CA🇨🇦 | 0️⃣2️⃣
+vless://--JOIN--ELiV2RAY--@tg.ELiV2ray.io:80?host=f1.ELena-cloudflare.cOm.&path=%2F%40ELiV2RAY-ELiV2RAY-%40ELiV2RAY%2CF1.V2ray.lV%3Fed%3D80&security=none&type=ws#رایگان | VLESS | @EliV2ray | SE🇸🇪 | 0️⃣3️⃣
+vless://--JOIN--ELiV2ray--@tg.ELiV2ray.io:80?host=ELi.elmahstyle.ir&path=%2F%40ELiV2ray-%40ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&security=none&type=ws#رایگان | VLESS | @EliV2ray | SE🇸🇪 | 0️⃣4️⃣
+vless://-JOIN--ELiV2ray-@188.114.96.3:80?encryption=none&host=ELi.V2ray.motorcycles&path=%2F%40ELiV2ray-%40ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&security=none&type=ws#رایگان | VLESS | @EliV2ray | CA🇨🇦 | 0️⃣5️⃣
+vless://-JOIN--ELiV2RAY-@tg.ELiV2ray.io:80?host=f1.ELena-cloudflare.cOm.&path=%2F%40ELiV2RAY-ELiV2RAY-%40ELiV2RAY%2CF1.V2ray.lV%3Fed%3D80&security=none&type=ws#رایگان | VLESS | @EliV2ray | SE🇸🇪 | 0️⃣6️⃣
+vless://-JOIN--ELiV2ray-@tg.ELiV2ray.io:80?host=ELi.elmahstyle.ir&path=%2F%40ELiV2ray-%40ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&security=none&type=ws#رایگان | VLESS | @EliV2ray | SE🇸🇪 | 0️⃣7️⃣
