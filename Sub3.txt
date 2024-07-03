@@ -1,3 +1,4 @@
+trojan://61c6ceee-ee4f-475f-867d-dcfda15490fb@v01.gutingting.com:30017?security=tls&sni=v2hgc01.fuqiangren.com#%F0%9F%87%A8%F0%9F%87%B3CN-120.233.47.184-2166
 trojan://b46a2da5-79eb-47d1-ad1e-30b988c0f93b@v01.gutingting.com:20224?security=tls&sni=v2usa01.fuqiangren.com#%F0%9F%87%A8%F0%9F%87%B3CN-120.233.47.184-2167
 trojan://f89390de-248e-4a5f-b50e-35be0cd965a1@v01.gutingting.com:20220?security=tls&sni=v2jp01.fuqiangren.com#%F0%9F%87%A8%F0%9F%87%B3CN-120.233.47.184-2168
 trojan://8cf18212-6899-4d09-9cdc-b7dd91cc4611@v01.gutingting.com:30050?security=tls&sni=v2sg02.fuqiangren.com#%F0%9F%87%A8%F0%9F%87%B3CN-120.233.47.184-2169
@@ -997,4 +998,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@78.129.253.9:808#%F0%9F%87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpweWRRSUxoMDZBdko=@13.49.241.14:27092#%F0%9F%87%B8%F0%9F%87%AASE-13.49.241.14-4870
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-4871
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@148.66.56.98:805#%F0%9F%87%AD%F0%9F%87%B0HK-148.66.56.98-4872
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@169.197.141.14:9101#%F0%9F%87%BA%F0%9F%87%B8US-169.197.141.14-4873
