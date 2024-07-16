@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.142:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.142-7102
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-7355
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@15.204.87.225:8000#%F0%9F%87%BA%F0%9F%87%B8US-15.204.87.225-2869
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.135.19:5001#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.19-7804
@@ -997,4 +998,3 @@ vmess://ewogICAgImFkZCI6ICIxMzAuMTYyLjQ3LjEyMyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 trojan://telegram-id-privatevpns@18.185.145.187:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-18.185.145.187-1596
 trojan://telegram-id-directvpn@3.64.199.140:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.64.199.140-1597
 trojan://telegram-id-privatevpns@3.73.45.155:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.73.45.155-1598
-trojan://telegram-id-privatevpns@52.29.156.38:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-52.29.156.38-1599
