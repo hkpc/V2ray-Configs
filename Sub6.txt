@@ -1,3 +1,4 @@
+trojan://b640d791-ff83-4300-b509-c2a02f97f167@51.38.71.175:80?security=tls&sni=uk1.trojanvh.xyz#%F0%9F%87%AC%F0%9F%87%A7GB-51.38.71.175-8179
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:804#%F0%9F%87%AB%F0%9F%87%B7FR-51.178.87.37-8181
 trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-8183
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@172.99.190.149:8882#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.149-0031
@@ -997,4 +998,3 @@ trojan://ypDt8RkT7J@62.210.82.54:43118?headerType=none&security=tls&sni=wuxgk.ph
 trojan://ypDt8RkT7J@62.210.83.57:43118?headerType=none&security=tls&sni=ruvil.phooeyunfold.com&type=tcp#رایگان | TROJAN | @oneclickvpnkeys | FR🇫🇷 | 0️⃣3️⃣
 trojan://ypDt8RkT7J@51.158.217.161:43118?headerType=none&security=tls&sni=tewmk.phooeyunfold.com&type=tcp#رایگان | TROJAN | @oneclickvpnkeys | NL🇳🇱 | 0️⃣4️⃣
 trojan://ypDt8RkT7J@213.186.36.123:43118?headerType=none&security=tls&sni=wylbe.phooeyunfold.com&type=tcp#رایگان | TROJAN | @oneclickvpnkeys | FR🇫🇷 | 0️⃣5️⃣
-trojan://ypDt8RkT7J@212.102.54.11:43118?headerType=none&security=tls&sni=tpmrq.phooeyunfold.com&type=tcp#رایگان | TROJAN | @oneclickvpnkeys | IT🇮🇹 | 0️⃣6️⃣
