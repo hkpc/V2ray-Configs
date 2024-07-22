@@ -1,3 +1,6 @@
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.62.62:3389#%F0%9F%87%BA%F0%9F%87%B8US-167.88.62.62-6841
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.62.62:7307#%F0%9F%87%BA%F0%9F%87%B8US-167.88.62.62-6842
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.135.239:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.239-6843
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@167.88.62.62:2375#%F0%9F%87%BA%F0%9F%87%B8US-167.88.62.62-6844
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.107.226.146:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.146-6845
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.99.190.149:443#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.149-6847
@@ -995,6 +998,3 @@ trojan://4d706727-996f-4427-930d-60f3bd414cf9@cnamemk.ciscocdn1.live:443?securit
 trojan://63779501-4c22-4a03-83d3-9f611b227e7b@cnamemc1.cdncisco4.co:443?security=tls&sni=c1mc.cdncisco4.co&type=ws&path=/422Kdfwzf49IxeZJa&Host=c1mc.cdncisco4.co#%F0%9F%87%BA%F0%9F%87%B8US-50.16.67.86-8331
 trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@cnamemc1.cdncisco3.co:443?security=tls&sni=c1mc.cdncisco3.co&type=ws&path=/ywQ9KSLI4ZBm9wOAXUaN&Host=c1mc.cdncisco3.co#%F0%9F%87%BA%F0%9F%87%B8US-44.207.223.209-8332
 trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@cnamemc.ciscocdn1.live:443?security=tls&sni=c3mc.ciscocdn1.live&type=ws&path=/ywQ9KSLI4ZBm9wOAXUaN&Host=c3mc.ciscocdn1.live#%F0%9F%87%BA%F0%9F%87%B8US-172.234.222.138-8333
-trojan://0ad5e311-7189-4124-ac8f-f828b681f10e@cnamemc.cdncisco.org:443?security=tls&sni=c5mc.cdncisco.org&type=ws&path=/5CSwsJSwLmxCxOCSBhOZubb&Host=c5mc.cdncisco.org#%F0%9F%87%BA%F0%9F%87%B8US-72.52.178.23-8334
-trojan://73658d71-be45-4495-bc3e-e69d36ce73b5@cn-hk-51.fnhffffe4.cc:50014?security=tls&sni=telewebion.com#%F0%9F%87%AD%F0%9F%87%B0HK-103.234.53.23-8335
-vmess://ewogICAgImFkZCI6ICJjbG91ZGNvbmViYmIuZ29yZ29yY2hpY2tlbi5vbmUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJjbG91ZGNvbmViYmIuZ29yZ29yY2hpY2tlbi5vbmUiLAogICAgImlkIjogImFhMGM0NzQ0LTk1NjgtNGJlZS1hMDhiLTczNjY4YTliMmE0MiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9jbG91ZGNvbmViYmIiLAogICAgInBvcnQiOiA4NDQzLAogICAgInBzIjogIvCfh7rwn4e4VVMtMTMuMjQ4LjE1MS4yMzctODMzNiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
