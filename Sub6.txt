@@ -1,4 +1,3 @@
-trojan://O4K-nAbZC4qEnBA0a_9EWQ@66.228.55.178:2083?security=tls&sni=gstatic.com&type=ws&path=/&Host=gstatic.com#%F0%9F%87%BA%F0%9F%87%B8US-66.228.55.178-8153
 vmess://ewogICAgImFkZCI6ICI2Ni4yMjguNTUuMTc4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI0NmM1OTg1Yi02MjY4LTQ2MjAtOWNmNi0yZGE4ZTgzYzBmNWIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODA4MCwKICAgICJwcyI6ICLwn4e68J+HuFVTLTY2LjIyOC41NS4xNzgtODE1NCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 trojan://O4K-nAbZC4qEnBA0a_9EWQ@66.228.55.178:2083?security=tls&sni=gstatic.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8US-66.228.55.178-8155
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@61.220.130.70:50701#%F0%9F%87%B9%F0%9F%87%BCTW-61.220.130.70-8157
@@ -998,3 +997,4 @@ trojan://Watashi_VPN@www.visa.com.sg:2053?fp=chrome&host=t-watashi-r-jacket-o-pe
 trojan://Watashi_VPN@www.visa.com.sg:8443?fp=chrome&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed%3D2560&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws#رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣7️⃣
 trojan://telegram-id-privatevpns@54.217.54.95:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣1️⃣
 trojan://telegram-id-privatevpns@18.171.7.127:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣2️⃣
+trojan://telegram-id-privatevpns@18.135.167.178:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣3️⃣

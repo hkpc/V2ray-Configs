@@ -1,4 +1,3 @@
-trojan://telegram-id-privatevpns@18.135.167.178:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣3️⃣
 trojan://telegram-id-privatevpns@35.180.238.132:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣4️⃣
 trojan://telegram-id-privatevpns@13.39.246.89:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣5️⃣
 trojan://telegram-id-privatevpns@18.153.5.32:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣6️⃣
