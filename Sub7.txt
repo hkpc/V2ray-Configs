@@ -1,3 +1,7 @@
+vless://d2cd2739-42eb-4307-c06a-ae85bda761a4@cpanel.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=www.GozargahVPN.top&path=%2FTelegram%3A%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%3Fed%3D2048&security=tls&sni=www.GozargahVPN.top&type=ws#رایگان | VLESS | @GozargahVPN | US🇺🇸 | 0️⃣6️⃣
+vless://SVNTEAM@speedtest.net:443?alpn=h2%2Chttp%2F1.1&fp=firefox&host=torb.com&path=%2F%3Fed%3D1024&security=tls&sni=speedtest.net&type=ws#رایگان | VLESS | @SvnTeam | US🇺🇸 | 0️⃣1️⃣
+vless://SVNTEAMx@speedtest.net:443?alpn=h2%2Chttp%2F1.1&fp=firefox&host=torb.com&path=%2F%3Fed%3D1024&security=tls&sni=speedtest.net&type=ws#رایگان | VLESS | @SvnTeam | US🇺🇸 | 0️⃣2️⃣
+vless://SVNTEAMm@www.speedtest.net:2095?host=e.E.e.E.e.E.e.E.e.E.e.E.e.E.e.E.e.svn2team.online.&path=%2F%3Fed%3D2052&security=none&type=ws#رایگان | VLESS | @SvnTeam | US🇺🇸 | 0️⃣6️⃣
 vless://SVNTEAMm@www.speedtest.net:2087?host=wWw.SPeedTeSt.Net.HoMe.SeVen.iRaNi-1.QiSvn.iR.&path=%2FSVNTEAM-SVNTEAM-SVNTEAM%3Fed%3D80&security=none&type=ws#رایگان | VLESS | @SvnTeam | US🇺🇸 | 0️⃣7️⃣
 vless://f35df9bb-0024-418c-9efb-377aced4c7da@104.26.10.138:8080?host=sbp.unironically.ir&path=%2FFIRELINKVPNNN&security=none&type=ws#رایگان | VLESS | @Good_V2rayy | US🇺🇸 | 0️⃣1️⃣
 vless://658a5fce-391b-46ed-bac2-0af9772ec953@104.26.10.138:8080?encryption=none&host=sbp.unironically.ir&path=%2FFIRELINKVPNNN&security=none&type=ws#رایگان | VLESS | @Good_V2rayy | US🇺🇸 | 0️⃣2️⃣
@@ -12,16 +16,16 @@ vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@www.speedtest.net:443?encryption=no
 vless://82299fb9-f8b0-43bc-ae63-290881a89f72@188.114.97.3:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=jAviDSHAH-ArIamEhR.PageS.deV&path=%2F%2F%3Fed%3D2560&security=tls&sni=jAVidSHAH-aRiaMeHR.pagEs.DEV&type=ws#رایگان | VLESS | @Miner_V2ray | US🇺🇸 | 0️⃣4️⃣
 vless://b3c711a0-5f93-4942-ea2e-5e4655e93ca0@185.146.173.58:8080?Telegram=%40V2RayTz%2C%40V2RayTz&encryption=none&host=emshab.bklink.iR.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&security=none&type=httpupgrade#رایگان | VLESS | @Miner_V2ray | SE🇸🇪 | 0️⃣6️⃣
 vless://telegram-id-ArV2ray@www.parsvds.ir:2095?encryption=none&host=6.V.V.p.zula.ir.www.speedtest.net.mashtimji.iR.&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095&security=none&type=ws#رایگان | VLESS | @Miner_V2ray | US🇺🇸 | 0️⃣7️⃣
-trojan://telegram-id-privatevpns@13.50.184.6:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣1️⃣
-trojan://telegram-id-privatevpns@63.35.114.226:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣2️⃣
-trojan://telegram-id-privatevpns@52.213.191.164:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣3️⃣
-trojan://telegram-id-privatevpns@18.132.103.125:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣4️⃣
-trojan://telegram-id-privatevpns@35.177.54.1:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣5️⃣
-trojan://telegram-id-privatevpns@52.47.209.99:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣6️⃣
-trojan://telegram-id-privatevpns@18.199.233.72:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣7️⃣
-trojan://telegram-id-directvpn@18.194.61.246:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣1️⃣
-trojan://telegram-id-directvpn@54.88.194.130:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣2️⃣
-trojan://telegram-id-directvpn@3.134.127.84:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣3️⃣
+trojan://telegram-id-privatevpns@18.158.39.94:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣1️⃣
+trojan://telegram-id-privatevpns@13.48.33.44:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣2️⃣
+trojan://telegram-id-privatevpns@13.50.184.6:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣3️⃣
+trojan://telegram-id-privatevpns@63.35.114.226:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣4️⃣
+trojan://telegram-id-privatevpns@52.213.191.164:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣5️⃣
+trojan://telegram-id-privatevpns@18.132.103.125:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣6️⃣
+trojan://telegram-id-privatevpns@35.177.54.1:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣7️⃣
+trojan://telegram-id-directvpn@3.64.16.98:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣1️⃣
+trojan://telegram-id-directvpn@18.194.61.246:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣2️⃣
+trojan://telegram-id-directvpn@54.88.194.130:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣3️⃣
 trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw2.233235.xyz:725?headerType=none&security=tls&type=tcp#رایگان | TROJAN | @VmessProtocol | TW🇹🇼 | 0️⃣1️⃣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40VmessProtocol+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.110.1.88:5499#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40VmessProtocol+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
@@ -31,7 +35,6 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8119#%D8%B1%D8%A7%DB%8C
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1U0ZpTnRqd3pDMXkyUU1QTmhyWEFUNWdrbkUxbWdIZ2dzcUw2Z1BrVUZQdldxckhDNjNVNXA1VkNOWkJrdFQ3Qk5veWtHZDFneFBaeTl6b1NzajZIcnc1WVYzWHZvUGg=@194.87.179.169:40928#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.162.200.154:8882#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+CA%F0%9F%87%A8%F0%9F%87%A6+%7C+0%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.86.135.225:8009#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5RWxpMHZ5b0xNUkNRcWxuNkhVVlpFT3JFcWpHN0FlZmo2UkJ1eHN4TVFoTWV2T2s=@130.0.233.247:51348#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+UA%F0%9F%87%BA%F0%9F%87%A6+%7C+0%EF%B8%8F%E2%83%A36%EF%B8%8F%E2%83%A3
 tuic://
 hy2://
 hy2://
