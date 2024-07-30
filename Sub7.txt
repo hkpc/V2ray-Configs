@@ -1,3 +1,5 @@
+vless://SVNTEAM@speedtest.net:443?alpn=h2%2Chttp%2F1.1&fp=firefox&host=torb.com&path=%2F%3Fed%3D1024&security=tls&sni=speedtest.net&type=ws#رایگان | VLESS | @SvnTeam | US🇺🇸 | 0️⃣1️⃣
+vless://SVNTEAMx@speedtest.net:443?alpn=h2%2Chttp%2F1.1&fp=firefox&host=torb.com&path=%2F%3Fed%3D1024&security=tls&sni=speedtest.net&type=ws#رایگان | VLESS | @SvnTeam | US🇺🇸 | 0️⃣2️⃣
 vless://SVNTEAMm@www.speedtest.net:2095?host=e.E.e.E.e.E.e.E.e.E.e.E.e.E.e.E.e.svn2team.online.&path=%2F%3Fed%3D2052&security=none&type=ws#رایگان | VLESS | @SvnTeam | US🇺🇸 | 0️⃣6️⃣
 vless://SVNTEAMm@www.speedtest.net:2087?host=wWw.SPeedTeSt.Net.HoMe.SeVen.iRaNi-1.QiSvn.iR.&path=%2FSVNTEAM-SVNTEAM-SVNTEAM%3Fed%3D80&security=none&type=ws#رایگان | VLESS | @SvnTeam | US🇺🇸 | 0️⃣7️⃣
 vless://f35df9bb-0024-418c-9efb-377aced4c7da@104.26.10.138:8080?host=sbp.unironically.ir&path=%2FFIRELINKVPNNN&security=none&type=ws#رایگان | VLESS | @Good_V2rayy | US🇺🇸 | 0️⃣1️⃣
