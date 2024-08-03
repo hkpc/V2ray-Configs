@@ -1,4 +1,3 @@
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@85.208.108.59:8090#%F0%9F%87%AF%F0%9F%87%B5JP-85.208.108.59-6668
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@85.208.108.21:9102#%F0%9F%87%AF%F0%9F%87%B5JP-85.208.108.21-6670
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@85.208.108.59:9102#%F0%9F%87%AF%F0%9F%87%B5JP-85.208.108.59-6671
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@85.208.108.58:9101#%F0%9F%87%AF%F0%9F%87%B5JP-85.208.108.58-6672
@@ -998,3 +997,4 @@ trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@cnamemc1.cdncisco3.co:443?security
 trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@cnamemc.ciscocdn1.live:443?security=tls&sni=c3mc.ciscocdn1.live&type=ws&path=/ywQ9KSLI4ZBm9wOAXUaN&Host=c3mc.ciscocdn1.live#%F0%9F%87%BA%F0%9F%87%B8US-172.234.222.138-8222
 trojan://0ad5e311-7189-4124-ac8f-f828b681f10e@cnamemc.cdncisco.org:443?security=tls&sni=c5mc.cdncisco.org&type=ws&path=/5CSwsJSwLmxCxOCSBhOZubb&Host=c5mc.cdncisco.org#%F0%9F%87%BA%F0%9F%87%B8US-72.52.178.23-8223
 trojan://73658d71-be45-4495-bc3e-e69d36ce73b5@cn-hk-51.fnhffffe4.cc:50014?security=tls&sni=telewebion.com#%F0%9F%87%AD%F0%9F%87%B0HK-103.234.53.23-8224
+vmess://ewogICAgImFkZCI6ICJjbG91ZGNvbmViYmIuZ29yZ29yY2hpY2tlbi5vbmUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJjbG91ZGNvbmViYmIuZ29yZ29yY2hpY2tlbi5vbmUiLAogICAgImlkIjogImFhMGM0NzQ0LTk1NjgtNGJlZS1hMDhiLTczNjY4YTliMmE0MiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9jbG91ZGNvbmViYmIiLAogICAgInBvcnQiOiA4NDQzLAogICAgInBzIjogIvCfh7rwn4e4VVMtMTMuMjQ4LjE1MS4yMzctODIyNSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
