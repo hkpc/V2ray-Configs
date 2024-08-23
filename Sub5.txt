@@ -1,3 +1,8 @@
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.135.239:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.239-6790
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.107.226.49:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.49-6792
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.64.138.145:8091#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-6794
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.107.226.49:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.49-6795
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.107.226.146:7307#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.146-6796
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.107.226.146:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.146-6797
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.86.135.27:8881#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.27-6799
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.64.138.145:5003#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-6800
@@ -993,8 +998,3 @@ trojan://telegram-id-directvpn@35.182.28.167:22222?security=tls&sni=trj.rollingn
 trojan://telegram-id-privatevpns@35.180.36.215:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-35.180.36.215-8342
 trojan://telegram-id-privatevpns@35.180.36.215:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-35.180.36.215-8344
 trojan://telegram-id-privatevpns@35.180.202.29:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-35.180.202.29-8345
-trojan://telegram-id-privatevpns@35.180.202.29:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-35.180.202.29-8347
-trojan://telegram-id-directvpn@35.156.35.238:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-35.156.35.238-8350
-trojan://telegram-id-directvpn@35.156.35.238:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-35.156.35.238-8352
-trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-34.253.231.7-8353
-trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-34.253.231.7-8355
